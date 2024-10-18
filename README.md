@@ -24,6 +24,9 @@ poetry shell # Activate the virtual environment
 ## Running the script
 
 ```bash
+# without alignment
+python main.py --folder <path/to/plasmids>
+# with alignment
 python main.py --folder <path/to/plasmids> --align
 ```
 
