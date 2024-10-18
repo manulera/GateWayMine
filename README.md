@@ -24,10 +24,12 @@ poetry shell # Activate the virtual environment
 ## Running the script
 
 ```bash
-python main.py --folder <path/to/plasmids>
+python main.py --folder <path/to/plasmids> --align
 ```
 
 This will create two files in the current directory: `donor_sites.json` and `destination_sites.json`, which contain dictionaries with the Gateway sequence sites for each plasmid.
+
+If you want to align the sites, you can use the `--align` flag. This will run `clustalo` for each site and create an aligment file in the `alignments` folder. You need to have the `clustalo` binary in the project directory. You can download it from [here](http://www.clustal.org/omega/), and rename it to `clustalo`.
 
 ## Contributing
 
