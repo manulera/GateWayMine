@@ -1,30 +1,46 @@
 CLUSTAL O(1.2.3) multiple sequence alignment
 
 
-attB2        ------------------------------------------------------------
-attP2_1      AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAAT
-attP2_2      AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAAT
-attP2_3      AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAAT
+attB2_1      ------------------------------------------------------------
+attB2_2      ------------------------------------------------------------
+attB2_3      ------------------------------------------------------------
+attL2_1      CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAA
+attL2_2      CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAA
+attP2_1      -AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAA
+attP2_2      -AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAA
+attP2_3      -AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAA
 attR2        ------------------------------------------------------------
                                                                          
 
-attB2        ------------ACCCAGCTTTCTTGTACAAAGTGGT-----------------------
-attP2_1      GCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAA
-attP2_2      GCTTTCTTATAATGCCCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAA
-attP2_3      GCTTTTTTATAATGCCAACTTTGTACAAGAAAGTTGAACGAGAAACGTAAAATGATATAA
-attR2        --------------ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAA
-                            *  **** *   * ****  *                        
+attB2_1      ---------------ACCACTTTGTACAAGAAAGCTGGGT--------------------
+attB2_2      ---------------ACCACTTTGTACAAGAAAGCTGGGT--------------------
+attB2_3      ---------------ACCACTTTGTACAAGAAAGCTGTCC--------------------
+attL2_1      TGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT--------------------
+attL2_2      TGCTTTCTTATAATGCCCACTTTGTACAAGAAAGCTGGGT--------------------
+attP2_1      TGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATA
+attP2_2      TGCTTTCTTATAATGCCCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATA
+attP2_3      TGCTTTTTTATAATGCCAACTTTGTACAAGAAAGTTGAACGAGAAACGTAAAATGATATA
+attR2        ---------------ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATA
+                             * **************** **                       
 
-attB2        ------------------------------------------------------------
-attP2_1      ATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACAC
-attP2_2      ATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACAC
-attP2_3      ATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACAC
-attR2        ATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACAC
+attB2_1      ------------------------------------------------------------
+attB2_2      ------------------------------------------------------------
+attB2_3      ------------------------------------------------------------
+attL2_1      ------------------------------------------------------------
+attL2_2      ------------------------------------------------------------
+attP2_1      AATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACA
+attP2_2      AATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACA
+attP2_3      AATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACA
+attR2        AATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACA
                                                                          
 
-attB2        ----------------------------------------------------
-attP2_1      AACATATCCAGTCACTATGAATCAACTACTTAGATGGTATTAGTGACCTGTA
-attP2_2      AACATATCCAGTCACTATGAATCAACTACTTAGATGGTATTAGTGACCTGTA
-attP2_3      AACATATGCAGTCACTATGAATCAACTACTTAGATGGTATTAGTGACCTGTA
-attR2        AACATATCCAGTCACTATG---------------------------------
-                                                                 
+attB2_1      -----------------------------------------------------
+attB2_2      -----------------------------------------------------
+attB2_3      -----------------------------------------------------
+attL2_1      -----------------------------------------------------
+attL2_2      -----------------------------------------------------
+attP2_1      CAACATATCCAGTCACTATGAATCAACTACTTAGATGGTATTAGTGACCTGTA
+attP2_2      CAACATATCCAGTCACTATGAATCAACTACTTAGATGGTATTAGTGACCTGTA
+attP2_3      CAACATATGCAGTCACTATGAATCAACTACTTAGATGGTATTAGTGACCTGTA
+attR2        CAACATATCCAGTCACTATG---------------------------------
+                                                                  

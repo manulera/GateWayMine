@@ -1,25 +1,37 @@
 CLUSTAL O(1.2.3) multiple sequence alignment
 
 
-attB3        ------------------------------------------------------------
+attB3_1      ------------------------------------------------------------
+attB3_2      ------------------------------------------------------------
+attL3_1      AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAAT
+attL3_2      AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAAT
 attP3_1      AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAAT
 attP3_2      AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAAT
 attR3        ------------------------------------------------------------
                                                                          
 
-attB3        ---------------CAACTTTGTATAATAAAGTTG------------------------
+attB3_1      ---------------CAACTTTGTATAATAAAGTTG------------------------
+attB3_2      ---------------CAACTTTGTATAATAAAGTTG------------------------
+attL3_1      GCTTTTTTATAATGCCAACTTTGTATAATAAAGTTG------------------------
+attL3_2      GCTTTTTTATAATGCCAACTTTGTATAATAAAGTTG------------------------
 attP3_1      GCTTTTTTATAATGCCAACTTTGTATAATAAAGTTGAACGAGAAACGTAAAATGATATAA
 attP3_2      GCTTTTTTATAATGCCAACTTTGTATAATAAAGTTGAACGAGAAACGTAAAATGATATAA
 attR3        ---------------CAACTATGTATAATAAAGTTGAACGAGAAACGTAAAATGATATAA
                             ***** ***************                        
 
-attB3        ------------------------------------------------------------
+attB3_1      ------------------------------------------------------------
+attB3_2      ------------------------------------------------------------
+attL3_1      ------------------------------------------------------------
+attL3_2      ------------------------------------------------------------
 attP3_1      ATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACAC
 attP3_2      ATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACAC
 attR3        ATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACAC
                                                                          
 
-attB3        ----------------------------------------------------
+attB3_1      ----------------------------------------------------
+attB3_2      ----------------------------------------------------
+attL3_1      ----------------------------------------------------
+attL3_2      ----------------------------------------------------
 attP3_1      AACATATCCAGTCACTATGAATCAACTACTTAGATGGTATTAGTGACCTGTA
 attP3_2      AACATATGCAGTCACTATGAATCAACTACTTAGATGGTATTAGTGACCTGTA
 attR3        AACATATCCAGTCACTATG---------------------------------
