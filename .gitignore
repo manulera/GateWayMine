@@ -1,3 +1,5 @@
 clustalo
 alignments/input.fa
 .venv
+.sglock
+.DS_Store

@@ -63,3 +63,8 @@ attR4_1      ---------------CAACTTTGTATAGAAAAGTTGAACGAGAAACGTAAAATGATATAA
 attR4_2      --------------TCAACTTTGTATAGAAAAGTTGAACGAGAAACGTAAAATGATATAA
                             * * * **** *  ****  *************************
 ```
+
+
+## Provenance of files
+
+attB: copy-pasting from two SnapGene examples
