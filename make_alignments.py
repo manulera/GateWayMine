@@ -28,7 +28,7 @@ for label, pattern in groups.items():
             SeqIO.write(seq, handle, "fasta")
 
     os.system(
-        f"./clustalo --use-kimura -i alignments/input.fa --force --outfmt=clu -o alignments/{label}.clu"
+        f"./clustalo -i alignments/input.fa --force --outfmt=clu -o alignments/{label}.clu"
     )
 
     if label in ["all", "no_B"]:
@@ -38,7 +38,7 @@ for label, pattern in groups.items():
             for seq in seq_subset:
                 SeqIO.write(seq, handle, "fasta")
         os.system(
-            f"./clustalo --use-kimura -i alignments/input.fa --force --outfmt=clu -o alignments/{label}_sorted.clu"
+            f"./clustalo -i alignments/input.fa --force --outfmt=clu -o alignments/{label}_sorted.clu"
         )
 
 

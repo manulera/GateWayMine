@@ -91,7 +91,33 @@ attP5        TGCTTTTTTATAATGCCAACTTTGTATACAAAAGTTGAACGAGAAACGTAAAATGATATA
                              * * * **** *  ****  *                       
 ```
 
-## Running locally
+### What constitutes a Gateway site?
+
+In the files received from Valerie, some Gateway sites are identical to those in the SnapGene collection (see the files in `manual_cloning/example_valerie` that contain `annotated` in the name). However, not all of them contain "canonical" Gateway sites. For example, the file `483_P4-P1r_EC1.2EC1.1p` contains a canonical `attL4_2` site identical to the SnapGene ones, and from its name it should contain an attL1 site as well. By looking for the `attL1` overlap sequence `TGTACAAAAAAG` in the sequence, I can find it in the "right place" (flanking the promoter, opposite to the `attL4_2` site). However, the site does not look like the other attL1 sites from SnapGene:
+
+> The below alignment was done with `./clustalo -i alignments/valerie.fa --force --outfmt=clu -o alignments/valerie.clu`. `valerie.fa` contains the `attL1` sites extracted from the manually cloned plasmids + the `attL1_483` site extracted from `483_P4-P1r_EC1.2EC1.1p` as the surrounding sequence to `TGTACAAAAAAG`.
+
+```
+attL1_483      actctctaaagttaacacacaattctcatcacaaacaaatcaaccaaagcaacttctact
+attL1_1        -------CAAA-----TAATGATTTTATTTTGA---------CTGATAGTGACCTGTTCG
+attL1_2        -------CAAA-----TAATGATTTTATTTTGA---------CTGATAGTGACCTGTTCG
+attL1_3        -------CAAA-----TAATGATTTTATTTTGA---------CTGATAGTGACCTGTTCG
+                       **        *  *** *  *   *            * **  ** * * * 
+
+attL1_483      ctt--tcttctttcgaccttatcaatctgttgagaaacaagttTGTACAAAAAAGttgaa
+attL1_1        TTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGC
+attL1_2        TTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAAGTTTGTACAAAAAAGCAGGC
+attL1_3        TTGCAACACATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGC
+                *    *   **        **   * * *  *    *** **************  *  
+
+attL1_483      cgagaaacgtaaaatgatataaa
+attL1_1        T----------------------
+attL1_2        T----------------------
+attL1_3        T----------------------
+
+```
+
+What could be done in this case? I guess you could just recombine using the overlap sequence only (`TGTACAAAAAAG`) and ignore the flanking rest. However, I imagine the surrounding sequence is important for the recombination to work.
 
 ### Dependencies
 
@@ -101,6 +127,7 @@ attP5        TGCTTTTTTATAATGCCAACTTTGTATACAAAAGTTGAACGAGAAACGTAAAATGATATA
 python -m venv .venv
 source .venv/bin/activate
 pip install biopython
+pip install pydna
 ```
 
 #### With poetry

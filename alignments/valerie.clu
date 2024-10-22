@@ -1,0 +1,20 @@
+CLUSTAL O(1.2.3) multiple sequence alignment
+
+
+attL1_483      actctctaaagttaacacacaattctcatcacaaacaaatcaaccaaagcaacttctact
+attL1_1        -------CAAA-----TAATGATTTTATTTTGA---------CTGATAGTGACCTGTTCG
+attL1_2        -------CAAA-----TAATGATTTTATTTTGA---------CTGATAGTGACCTGTTCG
+attL1_3        -------CAAA-----TAATGATTTTATTTTGA---------CTGATAGTGACCTGTTCG
+                       **        *  *** *  *   *            * **  ** * * * 
+
+attL1_483      ctt--tcttctttcgaccttatcaatctgttgagaaacaagttTGTACAAAAAAGttgaa
+attL1_1        TTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGC
+attL1_2        TTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAAGTTTGTACAAAAAAGCAGGC
+attL1_3        TTGCAACACATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGC
+                *    *   **        **   * * *  *    *** **************  *  
+
+attL1_483      cgagaaacgtaaaatgatataaa
+attL1_1        T----------------------
+attL1_2        T----------------------
+attL1_3        T----------------------
+                                      
