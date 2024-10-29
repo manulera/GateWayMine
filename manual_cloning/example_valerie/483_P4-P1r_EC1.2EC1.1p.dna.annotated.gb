@@ -18,11 +18,13 @@ FEATURES             Location/Qualifiers
                      /label="P7669"
                      /locus_tag="P7669"
      protein_bind    2616..2636
-                     /label="attB4_1"
-     protein_bind    2616..2636
-                     /label="attB4_2"
+                     /label="attB4"
+     protein_bind    join(3992..3998,1..14)
+                     /label="AttB1"
      protein_bind    2541..2636
-                     /label="attL4_2"
+                     /label="attL4"
+     protein_bind    join(3992..3998,1..150)
+                     /label="AttR1"
 ORIGIN
         1 gtacaaaaaa gttgaacgag aaacgtaaaa tgatataaat atcaatatat taaattagat
        61 tttgcataaa aaacagacta cataatactg taaaacacaa catatgcagt cactatgaat

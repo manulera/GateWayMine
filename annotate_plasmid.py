@@ -14,6 +14,26 @@ from Bio.Seq import Seq
 import glob
 from pydna.utils import shift_location
 from Bio.SeqFeature import SeqFeature, SimpleLocation
+from Bio.Data.IUPACData import ambiguous_dna_values
+from Bio.Seq import reverse_complement
+import re
+
+for normal_base in "ACGT":
+    del ambiguous_dna_values[normal_base]
+
+
+def compute_regex_site(site: str):
+    for k, v in ambiguous_dna_values.items():
+        if len(v) > 1:
+            site = site.replace(k, f"[{''.join(v)}]")
+    return site
+
+
+gateway_features = dict()
+with open("gateway_features.txt") as f:
+    for line in f:
+        line = line.strip().split("\t")
+        gateway_features[line[0]] = line[1]
 
 features = list()
 
@@ -26,17 +46,20 @@ for f in features:
 
 def annotate_plasmid(plasmid: SeqRecord):
     circ_seq: Seq = (plasmid.seq + plasmid.seq).upper()
-    for feature in features:
+    for feature_name, feature_seq in gateway_features.items():
         for rvs in [False, True]:
-            query = feature.seq if not rvs else feature.seq.reverse_complement()
-            for match in list(circ_seq.search([query])):
-                pos, _ = match
+            query = feature_seq if not rvs else reverse_complement(feature_seq)
+            for match in re.finditer(compute_regex_site(query), str(circ_seq)):
+                print(feature_name)
+                pos = match.start()
+                match_len = match.end() - match.start()
+
                 # Skip if the match is in the second half of query sequence (since it's a circular sequence)
                 if pos >= len(plasmid.seq):
                     continue
                 strand = 1 if not rvs else -1
                 location = shift_location(
-                    SimpleLocation(pos, pos + len(feature.seq), strand),
+                    SimpleLocation(pos, pos + match_len, strand),
                     0,
                     len(plasmid.seq),
                 )
@@ -44,7 +67,7 @@ def annotate_plasmid(plasmid: SeqRecord):
                     SeqFeature(
                         location,
                         type="protein_bind",
-                        qualifiers={"label": feature.id},
+                        qualifiers={"label": feature_name},
                     )
                 )
     return plasmid
