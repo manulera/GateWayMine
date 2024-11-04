@@ -3,3 +3,6 @@ alignments/input.fa
 .venv
 .sglock
 .DS_Store
+data/addgene_plasmids/*.gb
+data/snapgene_plasmids/*.dna
+__pycache__/

@@ -153,3 +153,6 @@ python make_alignments.py
 
 This could be extended to support other plasmid sources, but for now it only supports the SnapGene plasmid collection. Feel free to submit a PR.
 
+
+
+If using playwright for the first time, you may have to run "playwright install"
