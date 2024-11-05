@@ -8,6 +8,7 @@ import re
 from Bio import AlignIO
 from Bio.Align import MultipleSeqAlignment
 from Bio.Data.IUPACData import ambiguous_dna_values
+from make_combinatorial_att_sites import overlap_regex, overlap_dict
 
 # We create a dictinary that maps a set of bases to the ambibuous base
 # that represents them.
@@ -55,8 +56,34 @@ def main(input_dir: str, output_file: str):
             consensus = get_consensus_sequence(alignment)
         except ValueError as e:
             raise ValueError(f"Error getting consensus for {site_name}: {e}")
-
         out_dict[site_name] = consensus
+
+        # These are alignments that contain all sites of a certain type
+        # (e.g. attB1, attB2, etc.)
+        # We make a consensus where the only differing sequence
+        # is the overlap sequence
+        if site_name.endswith("x"):
+            # We find where the overlap sequence is in the alignment
+            # site_number is 1 in attB1, 2 in attB2, etc.
+            site_number = alignment[0].id[4]
+            pattern = overlap_regex[site_number]
+            overlap_matches = re.findall(pattern, str(alignment[0].seq))
+            if len(overlap_matches) != 1:
+                raise ValueError(
+                    f"Expected 1 overlap sequence for {site_name}, found {len(overlap_matches)}"
+                )
+            match = re.search(pattern, str(alignment[0].seq))
+            # In the consensus sequence, for each type of site, we replace the overlap
+            # by the corresponding overlap sequence
+            for num in range(1, 6):
+                merged_site = f"merged_{site_name[:-1]}{num}"
+                overlap_seq = overlap_dict[str(num)]
+                merged_consensus = (
+                    consensus[: match.start()]
+                    + overlap_seq.upper()
+                    + consensus[match.end() :]
+                )
+                out_dict[merged_site] = merged_consensus
 
     # Sort the sites alphabetically
     out_dict = dict(sorted(out_dict.items()))
