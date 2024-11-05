@@ -12,6 +12,10 @@ def main(input_file: str, output_file: str):
     unique_site_dict = dict()
     for plasmid, sites in plasmid_site_dict.items():
         for site_type, site_seqs in sites.items():
+            # Remove those that contain non-ACGT characters
+            site_seqs = [
+                seq for seq in site_seqs if all(base in "ACGT" for base in seq)
+            ]
             if site_type not in unique_site_dict:
                 unique_site_dict[site_type] = set()
             unique_site_dict[site_type].update(site_seqs)

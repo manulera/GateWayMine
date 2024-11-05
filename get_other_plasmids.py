@@ -43,6 +43,6 @@ if __name__ == "__main__":
     parser.add_argument(
         "--input_file", type=str, default="data/all_gateway_plasmids.tsv"
     )
-    parser.add_argument("--output_dir", type=str, default="data/addgene_plasmids")
+    parser.add_argument("--output-dir", type=str, default="data/addgene_plasmids")
     args = parser.parse_args()
     asyncio.run(main(args.input_file, args.output_dir))
