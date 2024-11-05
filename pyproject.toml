@@ -10,6 +10,7 @@ package-mode = false
 python = "^3.12"
 biopython = "^1.84"
 pydna = "^5.2.0"
+pandas = "^2.2.3"
 
 
 [tool.poetry.group.playwright.dependencies]

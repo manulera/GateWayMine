@@ -1,0 +1,58 @@
+CLUSTAL O(1.2.3) multiple sequence alignment
+
+
+attP4_1      AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAAT
+attP4_2      AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAAT
+attR4_1      ------------------------------------------------------------
+attR4_2      ------------------------------------------------------------
+attR4_3      ------------------------------------------------------------
+attR4_4      ------------------------------------------------------------
+attR4_5      ------------------------------------------------------------
+attL4_1      AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAAT
+attL4_2      AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAAT
+attB4_1      ------------------------------------------------------------
+attB4_2      ------------------------------------------------------------
+attB4_3      ------------------------------------------------------------
+                                                                         
+
+attP4_1      GCTTTCTTATAATGCCAACTTTGTATAGAAAAGTTGAACGAGAAACGTAAAATGATATAA
+attP4_2      GCTTTTTTATAATGCCAACTTTGTATAGAAAAGTTGAACGAGAAACGTAAAATGATATAA
+attR4_1      ---------------CAACTTTGTATAGAAAAGTTGAACGAGAAACGTAAAATGATATAA
+attR4_2      ---------------CAACTTTGTATAGAAAAGTTGAACGAGAAACGTAAAATGATATAA
+attR4_3      --------------CCAACTTTGTATAGAAAAGTTGAACGAGAAACGTAAAATGATATAA
+attR4_4      ---------------CCACTTTGTATAGAAAAGTTGAACGAGAAACGTAAAATGATATAA
+attR4_5      --------------TCAACTTTGTATAGAAAAGTTGAACGAGAAACGTAAAATGATATAA
+attL4_1      GCTTTCTTATAATGCCAACTTTGTATAGAAAAGTTG------------------------
+attL4_2      GCTTTTTTATAATGCCAACTTTGTATAGAAAAGTTG------------------------
+attB4_1      ---------------CAACTTTGTATAGAAAAGTTG------------------------
+attB4_2      ---------------CCACTTTGTATAGAAAAGTGG------------------------
+attB4_3      ---------------CCACTTTGTATAGAAAAGTTG------------------------
+                            * ***************** *                        
+
+attP4_1      ATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACAC
+attP4_2      ATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACAC
+attR4_1      ATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACAC
+attR4_2      ATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACAC
+attR4_3      ATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACAC
+attR4_4      ATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACAC
+attR4_5      ATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACAC
+attL4_1      ------------------------------------------------------------
+attL4_2      ------------------------------------------------------------
+attB4_1      ------------------------------------------------------------
+attB4_2      ------------------------------------------------------------
+attB4_3      ------------------------------------------------------------
+                                                                         
+
+attP4_1      AACATATCCAGTCACTATGAATCAACTACTTAGATGGTATTAGTGACCTGTA
+attP4_2      AACATATGCAGTCACTATGAATCAACTACTTAGATGGTATTAGTGACCTGTA
+attR4_1      AACATATCCAGTCACTATG---------------------------------
+attR4_2      AACATATGCAGTCACTATG---------------------------------
+attR4_3      AACATATCCAGTCACTATG---------------------------------
+attR4_4      AACATATCCAGTCACTATG---------------------------------
+attR4_5      AACATATCCAGTCACTATG---------------------------------
+attL4_1      ----------------------------------------------------
+attL4_2      ----------------------------------------------------
+attB4_1      ----------------------------------------------------
+attB4_2      ----------------------------------------------------
+attB4_3      ----------------------------------------------------
+                                                                 

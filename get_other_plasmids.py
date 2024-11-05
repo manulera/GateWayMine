@@ -12,6 +12,11 @@ async def main(input_file: str, output_dir: str):
         for line in no_sequence_file:
             addgene_ids_to_download.append(line.strip().split("\t")[0])
 
+    # Validate the ids
+    for addgene_id in addgene_ids_to_download:
+        if not re.match(r"\d+", addgene_id):
+            raise ValueError(f"Invalid addgene id: {addgene_id}")
+
     existing_files = os.listdir(output_dir)
     existing_addgene_ids = []
     for no_sequence_file in existing_files:

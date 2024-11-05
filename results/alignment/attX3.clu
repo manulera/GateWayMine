@@ -1,0 +1,62 @@
+CLUSTAL O(1.2.3) multiple sequence alignment
+
+
+attR3_1      ------------------------------------------------------------
+attR3_2      ------------------------------------------------------------
+attR3_3      ------------------------------------------------------------
+attR3_4      ------------------------------------------------------------
+attP3_1      AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAAT
+attP3_2      AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAAT
+attL3_1      AAATAATGATTTTATTTCGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAAT
+attL3_2      AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAAT
+attL3_3      AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAAT
+attL3_4      AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAAT
+attL3_5      AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAAT
+attB3_1      ------------------------------------------------------------
+attB3_2      ------------------------------------------------------------
+                                                                         
+
+attR3_1      ---------------CAACTATGTATAATAAAGTTGAACGAGAAACGTAAAATGATATAA
+attR3_2      ---------------CAACTATGTATAATAAAGTTGAACGAGAAACGTAAAATGATATAA
+attR3_3      ---------------CAACTTTGTATAATAAAGTTGAACGAGAAACGTAAAATGATATAA
+attR3_4      ---------------CAAGTTTGTATAATAAAGTTGAACGAGAAACGTAAAATGATATAA
+attP3_1      GCTTTTTTATAATGCCAACTTTGTATAATAAAGTTGAACGAGAAACGTAAAATGATATAA
+attP3_2      GCTTTTTTATAATGCCAACTTTGTATAATAAAGTTGAACGAGAAACGTAAAATGATATAA
+attL3_1      GCTTTTTTATAATGCCAACTTTGTATAATAAAGTTG------------------------
+attL3_2      GCTTTCCTATAATGCCAACTTTGTATAATAAAGTTG------------------------
+attL3_3      GCTTTTTTATAATGCCAACTTTGTATAATAAAGTTG------------------------
+attL3_4      GCTTTTTTATAATGCCAACTTTGTATAATAAAGTAG------------------------
+attL3_5      GCTTTTTTATAATGCCAACTTTGTATAATAAAGTTG------------------------
+attB3_1      ---------------CAACTATGTATAATAAAGTTG------------------------
+attB3_2      ---------------CAACTTTGTATAATAAAGTTG------------------------
+                            *** * ************* *                        
+
+attR3_1      ATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACAC
+attR3_2      ATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACAC
+attR3_3      ATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACAC
+attR3_4      ATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACAC
+attP3_1      ATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACAC
+attP3_2      ATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACAC
+attL3_1      ------------------------------------------------------------
+attL3_2      ------------------------------------------------------------
+attL3_3      ------------------------------------------------------------
+attL3_4      ------------------------------------------------------------
+attL3_5      ------------------------------------------------------------
+attB3_1      ------------------------------------------------------------
+attB3_2      ------------------------------------------------------------
+                                                                         
+
+attR3_1      AACATATCCAGTCACTATG---------------------------------
+attR3_2      AACATATGCAGTCACTATG---------------------------------
+attR3_3      AACATATCCAGTCACTATG---------------------------------
+attR3_4      AACATATCCAGTCACTATG---------------------------------
+attP3_1      AACATATGCAGTCACTATGAATCAACTACTTAGATGGTATTAGTGACCTGTA
+attP3_2      AACATATCCAGTCACTATGAATCAACTACTTAGATGGTATTAGTGACCTGTA
+attL3_1      ----------------------------------------------------
+attL3_2      ----------------------------------------------------
+attL3_3      ----------------------------------------------------
+attL3_4      ----------------------------------------------------
+attL3_5      ----------------------------------------------------
+attB3_1      ----------------------------------------------------
+attB3_2      ----------------------------------------------------
+                                                                 

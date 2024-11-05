@@ -17,8 +17,6 @@ def main(input_folder, output_folder):
 
     for file in files:
         plasmid_dict = dict()
-        plasmid_folder = os.path.split(os.path.split(file)[0])[1]
-        plasmid_name = os.path.basename(file).split(".")[0]
 
         file_format = "snapgene" if file.split(".")[-1] == "dna" else "genbank"
         plasmid_record = SeqIO.read(file, file_format)
@@ -35,7 +33,7 @@ def main(input_folder, output_folder):
                 site_seq = str(feature.location.extract(plasmid_record).seq)
                 plasmid_dict[label].append(site_seq)
 
-        out_dict[plasmid_folder + "/" + plasmid_name] = plasmid_dict
+        out_dict[file] = plasmid_dict
 
     with open(os.path.join(output_folder, "plasmid_site_dict.json"), "w") as handle:
         json.dump(out_dict, handle, indent=4)

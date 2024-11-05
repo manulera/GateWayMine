@@ -1,53 +1,67 @@
-import os
-import re
-import glob
+"""
+Reads all att sites from the att_sites.json file and creates fasta files for alignments.
+"""
+
+import json
 from Bio import SeqIO
+from Bio.Seq import Seq
+from Bio.SeqRecord import SeqRecord
+import os
+import glob
 
-# Read all sequences:
-sequences = list()
-for file in sorted(glob.glob("att*.fa")):
-    sequences += list(SeqIO.parse(file, "fasta"))
 
-groups = {
-    "attP": "attP",
-    "attB": "attB",
-    "attR": "attR",
-    "all": ".*",
-    "group1": "att.1",
-    "group2": "att.2",
-    "group3": "att.3",
-    "group4": "att.4",
-    "no_B": "^(?!.*B).*$",
-}
+def prepare_inputs(input_file: str, output_dir: str):
+    with open(input_file, "r") as file:
+        att_sites = json.load(file)
 
-for label, pattern in groups.items():
-    seq_subset = [seq for seq in sequences if re.search(pattern, seq.id)]
+    all_records = []
+    for att_site, sequences in att_sites.items():
+        for i, sequence in enumerate(sequences):
+            all_records.append(
+                SeqRecord(
+                    Seq(sequence),
+                    id=f"{att_site}_{i+1}",
+                    name=f"{att_site}_{i+1}",
+                    description="",
+                )
+            )
 
-    with open(f"alignments/input.fa", "w") as handle:
-        for seq in seq_subset:
-            SeqIO.write(seq, handle, "fasta")
+    for i in range(1, 6):
+        record_subset = [
+            record for record in all_records if record.id.split("_")[0][-1] == str(i)
+        ]
+        SeqIO.write(record_subset, f"{output_dir}/attX{i}.fasta", "fasta")
 
-    os.system(
-        f"./clustalo -i alignments/input.fa --force --outfmt=clu -o alignments/{label}.clu"
-    )
+    for site_type in "BPLR":
+        record_subset = [
+            record for record in all_records if record.id.split("_")[0][-2] == site_type
+        ]
+        SeqIO.write(record_subset, f"{output_dir}/att{site_type}x.fasta", "fasta")
 
-    if label in ["all", "no_B"]:
-        # Sort the sequences by group:
-        seq_subset = sorted(seq_subset, key=lambda x: x.id[4])
-        with open(f"alignments/input.fa", "w") as handle:
-            for seq in seq_subset:
-                SeqIO.write(seq, handle, "fasta")
-        os.system(
-            f"./clustalo -i alignments/input.fa --force --outfmt=clu -o alignments/{label}_sorted.clu"
+    SeqIO.write(all_records, f"{output_dir}/all.fasta", "fasta")
+
+
+def run_clustalo(output_dir: str, clustalo_bin: str):
+    for input_file in glob.glob(f"{output_dir}/*.fasta"):
+        output_file = input_file.replace(".fasta", ".clu")
+        command = (
+            f"{clustalo_bin} -i {input_file} --force --outfmt=clu -o {output_file}"
         )
+        os.system(command)
 
 
-# # Manually amend the attB2 alignment in the 'all' and 'all_sorted' alignments
-# for file in [
-#     "alignments/all.clu",
-#     "alignments/all_sorted.clu",
-#     "alignments/group2.clu",
-# ]:
-#     os.system(
-#         f"sed -i '' 's/---ACCCAGCTTTCTTGTACAAAGTGG---/ACCCAGCTTTCTTGTACAAAGTGG------/g' {file}"
-#     )
+def main(input_file: str, output_dir: str, clustalo_bin: str):
+    os.makedirs(output_dir, exist_ok=True)
+    prepare_inputs(input_file, output_dir)
+    run_clustalo(output_dir, clustalo_bin)
+
+
+if __name__ == "__main__":
+    import argparse
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--input_file", type=str, default="results/att_sites.json")
+    parser.add_argument("--output_dir", type=str, default="results/alignment")
+    parser.add_argument("--clustalo-bin", type=str, default="./clustalo")
+    args = parser.parse_args()
+    main(args.input_file, args.output_dir, args.clustalo_bin)
