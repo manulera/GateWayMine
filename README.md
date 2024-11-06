@@ -12,7 +12,7 @@ The SnapGene plasmid collection files can be found inside the SnapGene installat
 ```mermaid
 flowchart TD
 
-      subgraph Data Mining
+      subgraph DataMining["Data Mining"]
       %% snapgene_application{{SnapGene Folder}} --> snapgene_script
       %% addgene{{AddGene}} --> get_addgene_kits_info
       %% addgene --> get_all_gateway_plasmids
@@ -32,7 +32,6 @@ flowchart TD
       all_gateway_plasmids --> make_plasmid_summary[make_plasmid_summary.py]
       addgene_plasmids --> make_plasmid_summary
       snapgene_plasmids --> make_plasmid_summary
-      all_gateway_plasmids --> make_plasmid_summary
       addgene_article_refs --> make_plasmid_summary
       addgene_kits --> make_plasmid_summary
       make_plasmid_summary --> plasmid_summary([results/plasmid_summary.json])
@@ -46,7 +45,7 @@ flowchart TD
       make_combinatorial_att_sites[make_combinatorial_att_sites.py] --> att_sites_combinatorial([results/att_sites_combinatorial.json])
       make_combinatorial_att_sites --> combinatorial_att_sites_only([att_sites_combinatorial_only.json])
       end
-      subgraph Alignment and Consensus
+      subgraph AlignmentAndConsensus["Alignment and Consensus"]
       att_sites --> make_alignments
       att_sites_combinatorial --> make_alignments
       make_alignments[make_alignments.py] --> alignments([results/alignment/*])
@@ -58,6 +57,42 @@ flowchart TD
 
       end
 
+      get_addgene_kits_info:::Sky
+      get_addgene_kit_plasmids:::Sky
+      get_addgene_article_refs:::Sky
+      get_all_gateway_plasmids:::Sky
+      get_other_plasmids:::Sky
+      snapgene_script:::Sky
+      make_plasmid_summary:::Sky
+      make_feature_dict:::Sky
+      make_unique_sites:::Sky
+      make_combinatorial_att_sites:::Sky
+      make_alignments:::Sky
+      make_consensus_sites:::Sky
+      make_plasmid_site_dict:::Sky
+      
+
+      att_sites:::Lavender
+      att_sites_combinatorial:::Lavender
+      combinatorial_att_sites_only:::Lavender
+      plasmid_site_dict:::Lavender
+      feature_dict:::Pine
+      consensus_sites:::Pine
+      consensus_sites_combinatorial:::Pine
+      plasmid_summary:::Lavender
+      alignments:::Lavender
+      alignments_combinatorial:::Lavender
+      addgene_article_refs:::Lavender
+      addgene_kits:::Lavender
+      all_gateway_plasmids:::Lavender
+
+      classDef Sky stroke-width:1px, stroke-dasharray:none, stroke:#374D7C, fill:#E2EBFF, color:#374D7C
+      classDef Pine stroke-width:1px, stroke-dasharray:none, stroke:#254336, fill:#27654A, color:#FFFFFF
+      classDef Lavender stroke-width:1px, stroke-dasharray:none, stroke:#8E6C9E, fill:#8E6C9E, color:#FFFFFF
+
+      style DataMining color:#000000,fill:#E2EBFF90
+      style Formatting color:#000000,fill:#D1FFE290
+      style AlignmentAndConsensus color:#000000,fill:#FFE5F790
 ```
 
 Instructions to run this locally are below, first the analysis is described.
