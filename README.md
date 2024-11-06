@@ -10,14 +10,14 @@ The SnapGene plasmid collection files can be found inside the SnapGene installat
 
 
 ```mermaid
-flowchart LR
+flowchart TD
 
       subgraph Data Mining
-      snapgene_application{{SnapGene Folder}} --> snapgene_script
-      addgene{{AddGene}} --> get_addgene_kits_info
-      addgene --> get_all_gateway_plasmids
-      addgene --> get_addgene_article_refs
-      addgene --> get_other_plasmids
+      %% snapgene_application{{SnapGene Folder}} --> snapgene_script
+      %% addgene{{AddGene}} --> get_addgene_kits_info
+      %% addgene --> get_all_gateway_plasmids
+      %% addgene --> get_addgene_article_refs
+      %% addgene --> get_other_plasmids
       snapgene_script[get_snapgene_files.py] --> snapgene_plasmids([data/snapgene_plasmids/*.dna])
       get_addgene_kits_info[get_addgene_kits_info.py] --> addgene_kits([data/addgene_kit_plasmids.json])
       get_all_gateway_plasmids[get_all_gateway_plasmids.py] --> all_gateway_plasmids([data/all_gateway_plasmids.tsv])
