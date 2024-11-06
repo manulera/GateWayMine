@@ -31,18 +31,23 @@ def main(
     input_folder, output_file, all_gateway_plasmids, addgene_kits, addgene_articles
 ):
     addgene_id2name = dict()
+    addgene_id2reference_id = dict()
     with open(all_gateway_plasmids) as f:
         for line in f:
             addgene_id, name = line.strip().split("\t")[:2]
             addgene_id2name[addgene_id] = name
+            reference_id = line.strip().split("\t")[2:]
+            addgene_id2reference_id[addgene_id] = (
+                reference_id[0] if len(reference_id) > 0 else None
+            )
 
-    addgene_id2references = dict()
+    reference_id2reference_links = dict()
     with open(addgene_articles) as f:
         for line in f:
             ls = line.strip().split("\t")
             addgene_id = ls[0]
             references = ls[1:]
-            addgene_id2references[addgene_id] = references
+            reference_id2reference_links[addgene_id] = references
 
     addgene_id2kit = dict()
     with open(addgene_kits) as f:
@@ -75,8 +80,12 @@ def main(
             plasmid_dict["plasmid_name"] = addgene_id2name[addgene_id]
             plasmid_dict["sequence-type"] = basename.split(".")[1]
             plasmid_dict["addgene_id"] = addgene_id
-            if addgene_id in addgene_id2references:
-                plasmid_dict["references"] = addgene_id2references[addgene_id]
+            if addgene_id in addgene_id2reference_id:
+                reference_id = addgene_id2reference_id[addgene_id]
+                if reference_id is not None:
+                    plasmid_dict["references"] = reference_id2reference_links[
+                        reference_id
+                    ]
             else:
                 plasmid_dict["references"] = []
             if addgene_id in addgene_id2kit:

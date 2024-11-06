@@ -51,6 +51,8 @@ E.g.
 import json
 from Bio import SeqIO
 from Bio.SeqFeature import SeqFeature
+import warnings
+from tqdm import tqdm
 
 
 def main(plasmid_summary_file, plasmid_site_dict_file, output_file):
@@ -60,7 +62,7 @@ def main(plasmid_summary_file, plasmid_site_dict_file, output_file):
     with open(plasmid_site_dict_file) as f:
         plasmid_site_dict = json.load(f)
 
-    for plasmid in plasmid_summary:
+    for plasmid in tqdm(plasmid_summary, desc="Extracting plasmid features"):
         # If no att sites, skip and remove from plasmid summary
         if len(plasmid_site_dict[plasmid["file"]]) == 0:
             plasmid_summary.remove(plasmid)
@@ -70,8 +72,10 @@ def main(plasmid_summary_file, plasmid_site_dict_file, output_file):
             with open(plasmid["file"], "br") as f:
                 record = SeqIO.read(f, "snapgene")
         elif plasmid["source"] == "addgene":
-            with open(plasmid["file"], "r") as f:
-                record = SeqIO.read(f, "genbank")
+            with warnings.catch_warnings():
+                warnings.simplefilter("ignore")
+                with open(plasmid["file"], "r") as f:
+                    record = SeqIO.read(f, "genbank")
         features: list[SeqFeature] = record.features
         plasmid["att_sites"] = list(sorted(plasmid_site_dict[plasmid["file"]].keys()))
         plasmid["features"] = set()

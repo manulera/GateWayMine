@@ -19,6 +19,8 @@ from Bio.SeqFeature import SeqFeature
 import json
 import re
 import glob
+import warnings
+from tqdm import tqdm
 
 
 def main(input_folder, output_file):
@@ -29,11 +31,13 @@ def main(input_folder, output_file):
 
     out_dict = dict()
 
-    for file in files:
+    for file in tqdm(files, desc="Processing plasmid files"):
         plasmid_dict = dict()
 
         file_format = "snapgene" if file.split(".")[-1] == "dna" else "genbank"
-        plasmid_record = SeqIO.read(file, file_format)
+        with warnings.catch_warnings():
+            warnings.simplefilter("ignore")
+            plasmid_record = SeqIO.read(file, file_format)
 
         # Find att sites
         for feature in plasmid_record.features:

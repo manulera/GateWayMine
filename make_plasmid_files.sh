@@ -1,3 +1,0 @@
-python make_plasmid_site_dict.py
-python make_plasmid_summary.py
-python make_feature_dict.py

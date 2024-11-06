@@ -13,7 +13,7 @@ config:
   layout: elk
 ---
 flowchart LR
-SnapGene ==> Plasmids[17k+ plasmids]
+SnapGene ==> Plasmids[~14k plasmids]
 AddGene ==> Plasmids
 Plasmids ==> Sites[extracted att sites]
 Plasmids ==> SequenceFeatures[extracted sequence features]
