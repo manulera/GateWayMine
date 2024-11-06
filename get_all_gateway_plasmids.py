@@ -1,18 +1,23 @@
+"""
+Get a table of plasmids queried by "gateway" on AddGene, it takes a table file as input
+and appends new plasmids to it.
+"""
+
 import httpx
 from bs4 import BeautifulSoup
 import re
 import asyncio
 
 
-async def main(sort_by: str = "newest"):
+async def main(sort_by, table_file):
     # Read existing plasmids
     existing_plasmids = set()
-    with open("data/all_gateway_plasmids.tsv", "r") as input_file:
+    with open(table_file, "r") as input_file:
         for line in input_file:
             ls = line.strip().split("\t")
             existing_plasmids.add(ls[0])
 
-    with open("data/all_gateway_plasmids.tsv", "a") as output_file:
+    with open(table_file, "a") as output_file:
         for i in range(1, 240):
             print(f"Processing page {i}")
             url = f"https://www.addgene.org/search/catalog/plasmids/?q=gateway&page_number={i}&page_size=50&sort_by={sort_by}"
@@ -47,4 +52,12 @@ async def main(sort_by: str = "newest"):
 
 
 if __name__ == "__main__":
-    asyncio.run(main("alpha_desc"))
+    import argparse
+
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--sort_by", type=str, default="newest")
+    parser.add_argument(
+        "--table-file", type=str, default="data/all_gateway_plasmids.tsv"
+    )
+    args = parser.parse_args()
+    asyncio.run(main(args.sort_by, args.table_file))

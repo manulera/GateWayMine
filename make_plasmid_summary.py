@@ -1,5 +1,25 @@
 """
-Make a dictionary of features for each plasmid
+Make a dictionary a summary dictionary of plasmids in input folder, integrating
+diverse information parsed from addgene.
+
+output examples:
+  {
+    "source": "snapgene",
+    "plasmid_name": "pDEST15",
+    "file": "data/snapgene_plasmids/pDEST15.dna"
+  },
+  {
+    "source": "addgene",
+    "plasmid_name": "Flag-HA-USP5",
+    "sequence-type": "addgene-full",
+    "addgene_id": "22590",
+    "references": [
+      "https://doi.org/10.1016/j.celrep.2016.09.079",
+      "https://www.ncbi.nlm.nih.gov/pubmed/27760321"
+    ],
+    "kit": null,
+    "file": "data/addgene_plasmids/22590.addgene-full.gb"
+  },
 """
 
 import glob

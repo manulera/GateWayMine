@@ -22,6 +22,6 @@ python make_consensus_sites.py \
     --input-dir results/alignment_combinatorial \
     --output-file results/consensus_sites_combinatorial.tsv
 
-## Make consensus alignment
+## Make consensus alignment (not used)
 
 python make_consensus_alignment.py

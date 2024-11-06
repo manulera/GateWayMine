@@ -110,6 +110,9 @@ attB1_42      ------------------------------------------------------------
 attB1_43      ------------------------------------------------------------
 attB1_44      ------------------------------------------------------------
 attB1_45      ------------------------------------------------------------
+attB1_46      ------------------------------------------------------------
+attB1_47      ------------------------------------------------------------
+attB1_48      ------------------------------------------------------------
                                                                           
 
 attR1_1       ---------------ACAACTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATA
@@ -197,30 +200,33 @@ attB1_18      ---------------ACAAGTTTGTACAAAAAAGCTGGCA--------------------
 attB1_19      ---------------ACAAGTTTGTACAAAAAAGTGGGCA--------------------
 attB1_20      ---------------ACAAGTTTGTACAAAAAAGTTGACA--------------------
 attB1_21      ---------------ACAAGTTTGTACAAAAAAGTTGATA--------------------
-attB1_22      ---------------ACAAGTTTGTACAAAAAAGTTGCCA--------------------
-attB1_23      ---------------ACAAGTTTGTACAAAAAAGTTGGCA--------------------
-attB1_24      ---------------ACAAGTTTGTACAAAAAAGTTGGCG--------------------
-attB1_25      ---------------ACAAGTTTGTACAAAAAAGTTGGCT--------------------
-attB1_26      ---------------ACAAGTTTGTACAAAAAAGTTGGGC--------------------
-attB1_27      ---------------ACAAGTTTGTACAAAAAAGTTGGTA--------------------
-attB1_28      ---------------ACAAGTTTGTACAAAAAAGTTGTGG--------------------
-attB1_29      ---------------ACAAGTTTGTACAAAAAATTTGGCA--------------------
-attB1_30      ---------------CCAACTTTGTACAAAAAAGCAGGCT--------------------
-attB1_31      ---------------CCAACTTTGTACAAAAAAGTTGGCA--------------------
-attB1_32      ---------------CCAAGTTTGTACAAAAAAGCAGAAT--------------------
-attB1_33      ---------------CCAAGTTTGTACAAAAAAGCAGCGC--------------------
-attB1_34      ---------------CCAAGTTTGTACAAAAAAGCAGGCA--------------------
-attB1_35      ---------------CCAAGTTTGTACAAAAAAGCAGGCT--------------------
-attB1_36      ---------------CCAAGTTTGTACAAAAAAGCGGCTT--------------------
-attB1_37      ---------------CCAAGTTTGTACAAAAAAGTTGGCA--------------------
-attB1_38      ---------------GCAACTTTGTACAAAAAAGCAGAAG--------------------
-attB1_39      ---------------GCAACTTTGTACAAAAAAGCAGGCT--------------------
-attB1_40      ---------------GCAACTTTGTACAAAAAAGTTGGCA--------------------
-attB1_41      ---------------GCAAGTTTGTACAAAAAAGCAGGCT--------------------
-attB1_42      ---------------GCAAGTTTGTACAAAAAAGTTGGCA--------------------
-attB1_43      ---------------TCAACTTTGTACAAAAAAGCAGGCT--------------------
-attB1_44      ---------------TCAAGTTTGTACAAAAAAGCAGAAT--------------------
-attB1_45      ---------------TCAAGTTTGTACAAAAAAGCAGGCT--------------------
+attB1_22      ---------------ACAAGTTTGTACAAAAAAGTTGATG--------------------
+attB1_23      ---------------ACAAGTTTGTACAAAAAAGTTGCCA--------------------
+attB1_24      ---------------ACAAGTTTGTACAAAAAAGTTGGCA--------------------
+attB1_25      ---------------ACAAGTTTGTACAAAAAAGTTGGCC--------------------
+attB1_26      ---------------ACAAGTTTGTACAAAAAAGTTGGCG--------------------
+attB1_27      ---------------ACAAGTTTGTACAAAAAAGTTGGCT--------------------
+attB1_28      ---------------ACAAGTTTGTACAAAAAAGTTGGGC--------------------
+attB1_29      ---------------ACAAGTTTGTACAAAAAAGTTGGTA--------------------
+attB1_30      ---------------ACAAGTTTGTACAAAAAAGTTGTGG--------------------
+attB1_31      ---------------ACAAGTTTGTACAAAAAATTTGGCA--------------------
+attB1_32      ---------------CCAACTTTGTACAAAAAAGCAGGCT--------------------
+attB1_33      ---------------CCAACTTTGTACAAAAAAGTTGGCA--------------------
+attB1_34      ---------------CCAAGTTTGTACAAAAAAGCAGAAT--------------------
+attB1_35      ---------------CCAAGTTTGTACAAAAAAGCAGCGC--------------------
+attB1_36      ---------------CCAAGTTTGTACAAAAAAGCAGGCA--------------------
+attB1_37      ---------------CCAAGTTTGTACAAAAAAGCAGGCT--------------------
+attB1_38      ---------------CCAAGTTTGTACAAAAAAGCGGCTT--------------------
+attB1_39      ---------------CCAAGTTTGTACAAAAAAGTTGGCA--------------------
+attB1_40      ---------------GCAACTTTGTACAAAAAAGCAGAAG--------------------
+attB1_41      ---------------GCAACTTTGTACAAAAAAGCAGGCT--------------------
+attB1_42      ---------------GCAACTTTGTACAAAAAAGTTGGCA--------------------
+attB1_43      ---------------GCAAGTTTGTACAAAAAAGCAGGCT--------------------
+attB1_44      ---------------GCAAGTTTGTACAAAAAAGTTGGCA--------------------
+attB1_45      ---------------TCAACTTTGTACAAAAAAGCAGGCT--------------------
+attB1_46      ---------------TCAACTTTGTACAAAAAAGTTGGCA--------------------
+attB1_47      ---------------TCAAGTTTGTACAAAAAAGCAGAAT--------------------
+attB1_48      ---------------TCAAGTTTGTACAAAAAAGCAGGCT--------------------
                               *** *************   *                       
 
 attR1_1       AATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACA
@@ -332,6 +338,9 @@ attB1_42      ------------------------------------------------------------
 attB1_43      ------------------------------------------------------------
 attB1_44      ------------------------------------------------------------
 attB1_45      ------------------------------------------------------------
+attB1_46      ------------------------------------------------------------
+attB1_47      ------------------------------------------------------------
+attB1_48      ------------------------------------------------------------
                                                                           
 
 attR1_1       CAACATATGCAGTCACTATG---------------------------------
@@ -443,4 +452,7 @@ attB1_42      -----------------------------------------------------
 attB1_43      -----------------------------------------------------
 attB1_44      -----------------------------------------------------
 attB1_45      -----------------------------------------------------
+attB1_46      -----------------------------------------------------
+attB1_47      -----------------------------------------------------
+attB1_48      -----------------------------------------------------
                                                                    

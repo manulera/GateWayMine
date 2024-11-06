@@ -1,5 +1,5 @@
 """
-Makes aligments of the consensus sites.
+Align the consensus sequences (unused).
 """
 
 from Bio import SeqIO

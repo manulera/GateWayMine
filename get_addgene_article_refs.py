@@ -1,3 +1,11 @@
+"""
+Generate a lookup table mapping AddGene article ids to the URLs
+of the articles.
+
+An addgene article id is a number, and the URLs can be found
+by browsing to https://www.addgene.org/browse/article/<article_id>/
+"""
+
 import pandas as pd
 import asyncio
 import httpx
@@ -50,9 +58,14 @@ async def main(input_file, output_file):
 if __name__ == "__main__":
     import argparse
 
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(
+        description=__doc__,
+    )
     parser.add_argument(
-        "--input_file", type=str, default="data/all_gateway_plasmids.tsv"
+        "--input_file",
+        type=str,
+        default="data/all_gateway_plasmids.tsv",
+        help="Path to tabular file with addgene plasmids",
     )
     parser.add_argument(
         "--output_file", type=str, default="data/addgene_article_refs.tsv"

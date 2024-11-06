@@ -1,5 +1,9 @@
 """
-Reads all alignment files in the input directory and creates a consensus sequence for each alignment file.
+Reads all alignment files in the input directory and creates a consensus
+sequence for each alignment file. In addition, it makes a "merged" consensus
+sequences using all the sites of a certain type (e.g. all attB sites), excluding
+the overlap sequence, common to all att sites of a given number
+(e.g. all attX1 sites contain `twtGTACAAAaaa` as the overlap sequence).
 """
 
 import os

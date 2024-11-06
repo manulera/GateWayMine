@@ -1,5 +1,5 @@
 """
-Gather Plasmids from AddGene kits used for Gateway cloning
+Gather information about the plasmids contained in AddGene kits used for Gateway cloning
 """
 
 import argparse

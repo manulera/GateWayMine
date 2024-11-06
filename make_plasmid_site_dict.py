@@ -1,3 +1,17 @@
+"""
+Make a dictionary of att sites for each plasmid, where the keys are the paths of plasmids, and the values
+are the att sites found in each plasmid, e.g:
+
+    "data/snapgene_plasmids/pDEST15.dna": {
+        "attR1": [
+            "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+"""
+
 import argparse
 import os
 from Bio import SeqIO
@@ -7,7 +21,7 @@ import re
 import glob
 
 
-def main(input_folder, output_folder):
+def main(input_folder, output_file):
     # Get all *.dna *.gb *.gbk in /data and subfolders
     files = list()
     for extension in ["dna", "gb", "gbk"]:
@@ -35,7 +49,7 @@ def main(input_folder, output_folder):
 
         out_dict[file] = plasmid_dict
 
-    with open(os.path.join(output_folder, "plasmid_site_dict.json"), "w") as handle:
+    with open(output_file, "w") as handle:
         json.dump(out_dict, handle, indent=4)
 
 
@@ -49,10 +63,10 @@ if __name__ == "__main__":
         default="data",
     )
     parser.add_argument(
-        "--output-folder",
-        help="Path to the folder to store the output files",
-        default="results",
+        "--output-file",
+        help="Path to the output file",
+        default="results/plasmid_site_dict.json",
     )
     args = parser.parse_args()
 
-    main(args.input_folder, args.output_folder)
+    main(args.input_folder, args.output_file)

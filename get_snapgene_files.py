@@ -31,7 +31,16 @@ def main(folder_path):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--folder", required=True, help="Path to the folder to process")
+    parser.add_argument(
+        "--snapgene-dir",
+        required=True,
+        help="Path to the folder to process (in mac: /Applications/SnapGene.app/Contents/Resources/Plasmids)",
+    )
+    parser.add_argument(
+        "--output-dir",
+        default="data/snapgene_plasmids",
+        help="Path to the output directory",
+    )
     args = parser.parse_args()
 
-    main(args.folder)
+    main(args.snapgene_dir, args.output_dir)

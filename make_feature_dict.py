@@ -1,5 +1,51 @@
 """
-Make a dictionary of features for each plasmid
+Make a dictionary of features for each plasmid, including:
+- plasmid_name
+- att_sites
+- features (name extracted from gene or label)
+- source (snapgene or addgene)
+- file (path to the plasmid file in this repository)
+- if it's addgene:
+    - addgene_id
+    - references, if available as links
+    - kit (name and url), if it belongs to a kit
+
+This file is then used in the GatewayMine web app.
+
+E.g.
+ {
+        "source": "snapgene",
+        "plasmid_name": "pDEST15",
+        "att_sites": [
+            "attR1",
+            "attR2"
+        ],
+        "features": [
+            "AmpR",
+            "AmpR promoter",
+            ...
+        ]
+    },
+{
+        "source": "addgene",
+        "plasmid_name": "pDONR223_C1orf150_p.G2E",
+        "sequence-type": "addgene-full",
+        "addgene_id": "81309",
+        "references": [],
+        "kit": {
+            "name": "Broad Target Accelerator Plasmid Collections",
+            "url": "https://www.addgene.org/1000000103/"
+        },
+        "att_sites": [
+            "attL1",
+            "attL2"
+        ],
+        "features": [
+            "L4440",
+            "M13 Forward",
+            ...
+        ]
+    },
 """
 
 import json

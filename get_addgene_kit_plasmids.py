@@ -1,3 +1,7 @@
+"""
+Download plasmids from AddGene kits, using the addgene_kit_plasmids.json dictionary.
+"""
+
 import httpx
 import os
 import asyncio
@@ -73,7 +77,9 @@ async def main(input_file: str, output_dir: str):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(
+        description=__doc__,
+    )
     parser.add_argument(
         "--input_file", type=str, default="data/addgene_kit_plasmids.json"
     )

@@ -1,3 +1,12 @@
+"""
+Download plasmids from AddGene listed in a table file, into a given output directory.
+
+Only new plasmids (not present in the output folder) are downloaded. The plasmids are
+identified by their AddGene ids, which are the first column in the table file. If a plasmid
+without a sequence is encountered, its id is added to a separate file "no_sequence.txt"
+in the output directory, to prevent attempts to download it in subsequent runs.
+"""
+
 from get_addgene_kit_plasmids import get_addgene_plasmid
 import argparse
 import asyncio
@@ -39,7 +48,7 @@ async def main(input_file: str, output_dir: str):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--input_file", type=str, default="data/all_gateway_plasmids.tsv"
     )

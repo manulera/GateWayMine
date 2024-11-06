@@ -73,7 +73,7 @@ def main(
 if __name__ == "__main__":
     import argparse
 
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--att-sites", type=str, default="results/att_sites.json")
     parser.add_argument("--output-dir", type=str, default="results/alignment")
     parser.add_argument("--clustalo-bin", type=str, default="./clustalo")

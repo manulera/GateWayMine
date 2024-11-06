@@ -1,5 +1,6 @@
 """
-Combine all att sites found in plasmids to generate all possible reaction products.
+Recombine all att sites found in plasmids via BP or LR reaction to to generate
+even more att sites.
 """
 
 import json
@@ -102,7 +103,7 @@ def main(att_sites_file, output_file, output_file_combinatorial_only):
 if __name__ == "__main__":
     import argparse
 
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--att-sites-file", type=str, default="results/att_sites.json")
     parser.add_argument(
         "--output-file", type=str, default="results/att_sites_combinatorial.json"
