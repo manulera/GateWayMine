@@ -1,10 +1,64 @@
 # Gateway Sequence Sites
 
-This repository contains the code and data for extracting Gateway sequence sites from the SnapGene plasmid collection and aligning them.
+This repository contains the code and data for extracting Gateway sequence sites from AddGene and SnapGene plasmids, and:
+
+* Extract consensus sequences from the Gateway sites.
+* Create a web application to visualize the Gateway plasmids. Can be accessed at https://gatewaymine.netlify.app/.
+
 
 The SnapGene plasmid collection files can be found inside the SnapGene installation folder, in Mac the path is `/Applications/SnapGene.app/Contents/Resources/Plasmids`. To access it go to `Applications`, then right click SnapGene and select "Show Package Contents".
 
-In addition, the repository contains manually cloned plasmids (using SnapGene primer design + Gateway BP cloning). These files can be found in the `manual_cloning` folder.
+
+```mermaid
+flowchart LR
+
+      subgraph Data Mining
+      snapgene_application{{SnapGene Folder}} --> snapgene_script
+      addgene{{AddGene}} --> get_addgene_kits_info
+      addgene --> get_all_gateway_plasmids
+      addgene --> get_addgene_article_refs
+      addgene --> get_other_plasmids
+      snapgene_script[get_snapgene_files.py] --> snapgene_plasmids([data/snapgene_plasmids/*.dna])
+      get_addgene_kits_info[get_addgene_kits_info.py] --> addgene_kits([data/addgene_kit_plasmids.json])
+      get_all_gateway_plasmids[get_all_gateway_plasmids.py] --> all_gateway_plasmids([data/all_gateway_plasmids.tsv])
+      addgene_kits --> get_addgene_kit_plasmids[get_addgene_kit_plasmids.py]
+      get_addgene_kit_plasmids --> addgene_plasmids([data/addgene_plasmids/*.dna])
+      all_gateway_plasmids --> get_other_plasmids[get_other_plasmids.py]
+      get_other_plasmids --> addgene_plasmids
+      get_addgene_article_refs[get_addgene_article_refs.py] --> addgene_article_refs([data/addgene_article_refs.tsv])
+      end
+
+      subgraph Formatting
+      all_gateway_plasmids --> make_plasmid_summary[make_plasmid_summary.py]
+      addgene_plasmids --> make_plasmid_summary
+      snapgene_plasmids --> make_plasmid_summary
+      all_gateway_plasmids --> make_plasmid_summary
+      addgene_article_refs --> make_plasmid_summary
+      addgene_kits --> make_plasmid_summary
+      make_plasmid_summary --> plasmid_summary([results/plasmid_summary.json])
+      make_plasmid_site_dict[make_plasmid_site_dict.py] --> plasmid_site_dict([results/plasmid_site_dict.json])
+      plasmid_site_dict --> make_feature_dict
+      plasmid_summary --> make_feature_dict
+      make_feature_dict[make_feature_dict.py] --> feature_dict[(results/feature_dict.json)]
+      plasmid_site_dict --> make_unique_sites
+      make_unique_sites[make_unique_sites.py] --> att_sites([results/att_sites.json])
+      att_sites --> make_combinatorial_att_sites
+      make_combinatorial_att_sites[make_combinatorial_att_sites.py] --> att_sites_combinatorial([results/att_sites_combinatorial.json])
+      make_combinatorial_att_sites --> combinatorial_att_sites_only([att_sites_combinatorial_only.json])
+      end
+      subgraph Alignment and Consensus
+      att_sites --> make_alignments
+      att_sites_combinatorial --> make_alignments
+      make_alignments[make_alignments.py] --> alignments([results/alignment/*])
+      make_alignments --> alignments_combinatorial([results/alignment_combinatorial/*])
+      alignments --> make_consensus_sites
+      alignments_combinatorial --> make_consensus_sites
+      make_consensus_sites[make_consensus_sites.py] --> consensus_sites[(results/consensus_sites.tsv)]
+      make_consensus_sites --> consensus_sites_combinatorial[(results/consensus_sites_combinatorial.tsv)]
+
+      end
+
+```
 
 Instructions to run this locally are below, first the analysis is described.
 
