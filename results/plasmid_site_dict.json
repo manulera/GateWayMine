@@ -1010,6 +1010,14 @@
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTATAGAAAAGTTG"
         ]
     },
+    "data/addgene_plasmids/37954.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGCT"
+        ]
+    },
     "data/addgene_plasmids/210483.addgene-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -1703,6 +1711,14 @@
             "ACCACTTTGTACAAGAAAGTTGGGC"
         ]
     },
+    "data/addgene_plasmids/51078.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGTC"
+        ]
+    },
     "data/addgene_plasmids/131890.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACACATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -1788,6 +1804,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGACAACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
+    "data/addgene_plasmids/69233.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/163044.addgene-full.gb": {
@@ -2451,6 +2475,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/134734.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/209689.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGTTGGCA"
@@ -2520,6 +2552,14 @@
         ],
         "attB4": [
             "CCACTTTGTATAGAAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/45276.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGT"
         ]
     },
     "data/addgene_plasmids/81523.addgene-full.gb": {
@@ -3021,6 +3061,20 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/71282.addgene-full.gb": {
+        "attB4": [
+            "CAACTTTGTATAGAAAAGTTG"
+        ],
+        "attB1": [
+            "CCAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB3": [
+            "CAACTATGTATAATAAAGTTG"
+        ]
+    },
     "data/addgene_plasmids/116413.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCA"
@@ -3186,6 +3240,14 @@
         ],
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/31785.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/14200.depositor-full.gb": {
@@ -3445,6 +3507,14 @@
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/51080.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGTC"
+        ]
+    },
     "data/addgene_plasmids/193289.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -3562,6 +3632,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGGC"
+        ]
+    },
+    "data/addgene_plasmids/46664.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/161207.addgene-full.gb": {
@@ -4097,6 +4175,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/25045.addgene-full.gb": {
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ]
+    },
     "data/addgene_plasmids/188544.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -4437,6 +4523,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/46678.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/121782.addgene-full.gb": {
         "attL3": [
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTATAATAAAGTTG"
@@ -4725,6 +4819,14 @@
         ]
     },
     "data/addgene_plasmids/106105.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/48690.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
@@ -5333,6 +5435,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/53076.depositor-full.gb": {
+        "attR1": [
+            "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
     "data/addgene_plasmids/123071.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -5418,6 +5528,14 @@
         ],
         "attB3": [
             "CAACTATGTATAATAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/59140.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGC"
         ]
     },
     "data/addgene_plasmids/195957.addgene-full.gb": {
@@ -5688,6 +5806,17 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/67662.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB3": [
+            "CAACTATGTATAATAAAGTTG"
+        ]
+    },
     "data/addgene_plasmids/195825.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -5759,6 +5888,14 @@
         ],
         "attR2": [
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/46702.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGC"
         ]
     },
     "data/addgene_plasmids/166566.addgene-full.gb": {
@@ -5857,6 +5994,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/40992.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGTC"
+        ]
+    },
     "data/addgene_plasmids/60271.depositor-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -5895,7 +6040,23 @@
             "CCACTTTGTATAGAAAAGTTG"
         ]
     },
+    "data/addgene_plasmids/20452.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGT"
+        ]
+    },
     "data/addgene_plasmids/41944.addgene-full.gb": {},
+    "data/addgene_plasmids/65658.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/82317.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -5976,12 +6137,28 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/46680.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGA"
+        ]
+    },
     "data/addgene_plasmids/169978.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/51299.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGG"
         ]
     },
     "data/addgene_plasmids/161122.addgene-full.gb": {
@@ -6752,6 +6929,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/49861.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/105390.addgene-full.gb": {},
     "data/addgene_plasmids/81795.addgene-full.gb": {
         "attL1": [
@@ -6884,6 +7069,14 @@
             "ACAACTTTGTACAAGAAAGTTGACG"
         ]
     },
+    "data/addgene_plasmids/20428.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGC"
+        ]
+    },
     "data/addgene_plasmids/111374.depositor-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -6931,6 +7124,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGCGA"
+        ]
+    },
+    "data/addgene_plasmids/66781.depositor-full.gb": {
+        "attL2": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attL1": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
         ]
     },
     "data/addgene_plasmids/116790.addgene-full.gb": {
@@ -7151,12 +7352,28 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGTC"
         ]
     },
+    "data/addgene_plasmids/65744.depositor-full.gb": {
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ]
+    },
     "data/addgene_plasmids/22557.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGTTGGCA"
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGTTGGTT"
+        ]
+    },
+    "data/addgene_plasmids/46650.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/14217.addgene-full.gb": {
@@ -7471,6 +7688,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCCTATAATGCCAACTTTGTACAAGAAAGTTGATT"
         ]
     },
+    "data/addgene_plasmids/42651.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/65390.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGAAG"
@@ -7769,6 +7994,14 @@
             "ACCACTTTGTACAAGAAAGTTGGCA"
         ]
     },
+    "data/addgene_plasmids/20512.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
     "data/addgene_plasmids/216610.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -7904,12 +8137,28 @@
             "CAACTTTGTATAATAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/20589.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGT"
+        ]
+    },
     "data/addgene_plasmids/86237.addgene-full.gb": {
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGC"
         ],
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGAAG"
+        ]
+    },
+    "data/addgene_plasmids/42562.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGG"
         ]
     },
     "data/addgene_plasmids/23874.addgene-full.gb": {
@@ -8103,6 +8352,14 @@
             "ACAAGTTTGTACAAAAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATGCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/46699.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/178289.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -8125,6 +8382,17 @@
         ],
         "attR2": [
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/67653.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB3": [
+            "CAACTATGTATAATAAAGTTG"
         ]
     },
     "data/addgene_plasmids/116577.addgene-full.gb": {
@@ -8298,6 +8566,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/46733.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
+        ]
+    },
     "data/addgene_plasmids/90239.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -8386,6 +8662,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/60028.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCG"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGT"
+        ]
+    },
     "data/addgene_plasmids/22450.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -8448,6 +8732,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/217660.addgene-full.gb": {
+        "attL1": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attL2": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/40874.addgene-full.gb": {
@@ -8750,12 +9042,28 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/46649.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/144572.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGTTGGCA"
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
+    "data/addgene_plasmids/29609.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/14357.depositor-full.gb": {
@@ -8940,6 +9248,14 @@
         ],
         "attL3": [
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTATAATAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/50786.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/82814.addgene-full.gb": {
@@ -9128,6 +9444,14 @@
     "data/addgene_plasmids/218830.addgene-full.gb": {
         "attB2": [
             "ACCACTTTGTACAAGAAAGTTGGGC"
+        ]
+    },
+    "data/addgene_plasmids/52050.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/122844.addgene-full.gb": {
@@ -9323,6 +9647,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCCTATAATGCCAACTTTGTACAAGAAAGTTGATT"
         ]
     },
+    "data/addgene_plasmids/20481.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGC"
+        ]
+    },
     "data/addgene_plasmids/209227.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -9386,6 +9718,14 @@
         ],
         "attR2": [
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/32886.addgene-full.gb": {
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
         ]
     },
     "data/addgene_plasmids/116442.addgene-full.gb": {
@@ -9481,6 +9821,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGACAACTTTGTACAAGAAAGTTGGCA"
         ]
     },
+    "data/addgene_plasmids/46661.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/116596.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGTTGGCA"
@@ -9517,6 +9865,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/34902.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGAAG"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGC"
         ]
     },
     "data/addgene_plasmids/70482.depositor-full.gb": {
@@ -10173,6 +10529,20 @@
             "CAACTTTGTATAATAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/69584.depositor-full.gb": {
+        "attB4": [
+            "CAACTTTGTATAGAAAAGTTG"
+        ],
+        "attB1": [
+            "TCAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "CCCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB3": [
+            "CAACTATGTATAATAAAGTTG"
+        ]
+    },
     "data/addgene_plasmids/46029.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -10313,6 +10683,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATTATTTTTTATAATGCCAACTTTGTACAAGAAAGCTGGGC"
         ]
     },
+    "data/addgene_plasmids/136526.addgene-full.gb": {
+        "attL2": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attL1": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
+        ]
+    },
     "data/addgene_plasmids/161324.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACACATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -10424,6 +10802,14 @@
         ],
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ]
+    },
+    "data/addgene_plasmids/49098.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGATA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGTCT"
         ]
     },
     "data/addgene_plasmids/81673.addgene-full.gb": {
@@ -11175,6 +11561,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/53073.depositor-full.gb": {
+        "attR1": [
+            "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
     "data/addgene_plasmids/186366.addgene-full.gb": {
         "attL3": [
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTATAATAAAGTAG"
@@ -11608,12 +12002,31 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGACAACTTTGTACAAGAAAGTTGGCA"
         ]
     },
+    "data/addgene_plasmids/45016.depositor-full.gb": {
+        "attB4": [
+            "CAACTTTGTATAGAAAAGTTG"
+        ],
+        "attB2": [
+            "TCCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB3": [
+            "CAACTATGTATAATAAAGTTG"
+        ]
+    },
     "data/addgene_plasmids/66102.depositor-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACACATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/46707.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGC"
         ]
     },
     "data/addgene_plasmids/144891.addgene-full.gb": {
@@ -11706,6 +12119,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/31207.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGT"
         ]
     },
     "data/addgene_plasmids/14257.depositor-full.gb": {
@@ -11802,6 +12223,14 @@
         ]
     },
     "data/addgene_plasmids/83390.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/65386.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
@@ -12018,6 +12447,14 @@
             "ACCACTTTGTACAAGAAAGTTGGGC"
         ]
     },
+    "data/addgene_plasmids/68811.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/197624.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGTTGGCA"
@@ -12040,6 +12477,7 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/41915.addgene-full.gb": {},
     "data/addgene_plasmids/141259.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -12140,6 +12578,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/31731.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGC"
         ]
     },
     "data/addgene_plasmids/159869.addgene-full.gb": {
@@ -12467,6 +12913,14 @@
             "CCCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/169262.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/160415.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -12669,6 +13123,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGCA"
         ]
     },
+    "data/addgene_plasmids/46655.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/158352.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -12865,6 +13327,14 @@
         ],
         "attL3": [
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTATAATAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/65095.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/81424.addgene-full.gb": {
@@ -13377,6 +13847,14 @@
         ]
     },
     "data/addgene_plasmids/113605.addgene-full.gb": {},
+    "data/addgene_plasmids/47902.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/85128.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -13728,6 +14206,14 @@
             "ACAAGTTTGTACAAAAAAGTTGGCA"
         ]
     },
+    "data/addgene_plasmids/46685.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
+        ]
+    },
     "data/addgene_plasmids/167709.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -13860,6 +14346,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/184474.addgene-full.gb": {
+        "attL1": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attL2": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/115947.addgene-full.gb": {},
@@ -14501,6 +14995,14 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/50782.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/54354.depositor-full.gb": {},
     "data/addgene_plasmids/87122.addgene-full.gb": {
         "attB2": [
@@ -14892,6 +15394,17 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/67687.depositor-full.gb": {
+        "attB1": [
+            "CCAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "CCCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB3": [
+            "CAACTATGTATAATAAAGTTG"
+        ]
+    },
     "data/addgene_plasmids/162897.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -15261,6 +15774,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/69232.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/161294.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACACATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -15417,6 +15938,15 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/38073.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT",
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/48352.depositor-full.gb": {
@@ -15687,6 +16217,14 @@
         ],
         "attR3": [
             "CAACTTTGTATAATAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/63801.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/82945.addgene-full.gb": {
@@ -15978,6 +16516,14 @@
         ],
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
+        ]
+    },
+    "data/addgene_plasmids/169265.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/83131.depositor-full.gb": {
@@ -16466,6 +17012,14 @@
             "ACCACTTTGTACAAGAAAGTTGGGC"
         ]
     },
+    "data/addgene_plasmids/38069.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGAAG"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGC"
+        ]
+    },
     "data/addgene_plasmids/176848.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGAAG"
@@ -16498,6 +17052,7 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGGT"
         ]
     },
+    "data/addgene_plasmids/41912.addgene-full.gb": {},
     "data/addgene_plasmids/105959.addgene-full.gb": {
         "attB4": [
             "CAACTTTGTATAGAAAAGTTG"
@@ -16689,6 +17244,14 @@
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTATAATAAAGTTG"
         ]
     },
+    "data/addgene_plasmids/19878.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/170598.addgene-full.gb": {
         "attB4": [
             "CAACTTTGTATAGAAAAGTTG"
@@ -16725,6 +17288,14 @@
         ],
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ]
+    },
+    "data/addgene_plasmids/65381.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGAAG"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGC"
         ]
     },
     "data/addgene_plasmids/172533.addgene-full.gb": {
@@ -17065,6 +17636,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGCA"
         ]
     },
+    "data/addgene_plasmids/46665.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/161307.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACACATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -17242,6 +17821,20 @@
         ],
         "attB4": [
             "CAACTTTGTATAGAAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/48157.depositor-full.gb": {
+        "attB4": [
+            "CAACTTTGTATAGAAAAGTTG"
+        ],
+        "attB1": [
+            "GCAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "CCCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB3": [
+            "CAACTATGTATAATAAAGTTG"
         ]
     },
     "data/addgene_plasmids/14335.depositor-full.gb": {
@@ -18038,6 +18631,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/46679.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/207180.addgene-full.gb": {
@@ -19005,6 +19606,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCCTATAATGCCAACTTTGTACAAGAAAGTTGATT"
         ]
     },
+    "data/addgene_plasmids/20420.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGT"
+        ]
+    },
     "data/addgene_plasmids/116798.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGAAG"
@@ -19029,6 +19638,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/53077.depositor-full.gb": {
+        "attR1": [
+            "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
     "data/addgene_plasmids/132010.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACACATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -19043,6 +19660,14 @@
         ],
         "attL3": [
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTATAATAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/70090.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGT"
         ]
     },
     "data/addgene_plasmids/32110.depositor-full.gb": {
@@ -19136,6 +19761,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/65398.addgene-full.gb": {
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ]
+    },
     "data/addgene_plasmids/132162.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACACATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -19208,6 +19841,14 @@
         ]
     },
     "data/addgene_plasmids/167750.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/65659.depositor-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
@@ -19406,12 +20047,31 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/46703.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGC"
+        ]
+    },
     "data/addgene_plasmids/159551.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGTTGGCG"
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGTTGATT"
+        ]
+    },
+    "data/addgene_plasmids/67663.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "GCCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB3": [
+            "CAACTATGTATAATAAAGTTG"
         ]
     },
     "data/addgene_plasmids/32593.depositor-full.gb": {
@@ -19468,6 +20128,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/20486.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGC"
         ]
     },
     "data/addgene_plasmids/209220.addgene-full.gb": {
@@ -19891,6 +20559,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/46681.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGA"
         ]
     },
     "data/addgene_plasmids/116153.addgene-full.gb": {
@@ -20480,6 +21156,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/46651.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/82322.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -20550,6 +21234,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/65379.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/113489.addgene-full.gb": {
@@ -20674,6 +21366,14 @@
         ],
         "attB3": [
             "CAACTATGTATAATAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/65091.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/105421.addgene-full.gb": {},
@@ -21126,6 +21826,14 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/37142.depositor-full.gb": {
+        "attL1": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attL2": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/214993.addgene-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -21189,6 +21897,14 @@
         ],
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/46698.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGC"
         ]
     },
     "data/addgene_plasmids/123097.addgene-full.gb": {
@@ -21394,6 +22110,14 @@
             "ACCACTTTGTACAAGAAAGTTGGGT"
         ]
     },
+    "data/addgene_plasmids/43798.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/81185.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -21507,6 +22231,14 @@
         ],
         "attB4": [
             "CCACTTTGTATAGAAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/53791.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/98598.addgene-full.gb": {
@@ -21793,6 +22525,14 @@
             "CAAGTTTGTACAAAAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATGCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/46732.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
+        ]
+    },
     "data/addgene_plasmids/158461.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -21901,6 +22641,14 @@
             "CAACTTTGTATAATAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/20888.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/105972.addgene-full.gb": {
         "attB4": [
             "CAACTTTGTATAGAAAAGTTG"
@@ -21921,6 +22669,22 @@
         ],
         "attR2": [
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/62057.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/69610.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/175505.addgene-full.gb": {
@@ -21951,6 +22715,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/50787.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/54351.depositor-full.gb": {},
@@ -22194,6 +22966,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/46648.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/161263.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACACATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -22343,6 +23123,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/45268.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGT"
         ]
     },
     "data/addgene_plasmids/82774.addgene-full.gb": {
@@ -22646,6 +23434,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCCTATAATGCCAACTTTGTACAAGAAAGTTGATT"
         ]
     },
+    "data/addgene_plasmids/64610.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
     "data/addgene_plasmids/121876.addgene-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -22886,6 +23682,11 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGGC"
         ]
     },
+    "data/addgene_plasmids/48080.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ]
+    },
     "data/addgene_plasmids/193689.addgene-full.gb": {
         "attB2": [
             "ACCACTTTGTACAAGAAAGTTGGGG"
@@ -22945,6 +23746,14 @@
         ],
         "attR5": [
             "CAACTTTGTATACAAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/46660.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/159662.addgene-full.gb": {},
@@ -23601,6 +24410,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/65376.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/141006.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGAAT"
@@ -23995,6 +24812,20 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGGT"
         ]
     },
+    "data/addgene_plasmids/69585.depositor-full.gb": {
+        "attB4": [
+            "CAACTTTGTATAGAAAAGTTG"
+        ],
+        "attB1": [
+            "TCAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "GCCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB3": [
+            "CAACTATGTATAATAAAGTTG"
+        ]
+    },
     "data/addgene_plasmids/62104.depositor-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -24298,6 +25129,14 @@
         ],
         "attR2": [
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/66807.addgene-full.gb": {
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
         ]
     },
     "data/addgene_plasmids/71506.depositor-full.gb": {
@@ -24749,6 +25588,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/53072.depositor-full.gb": {
+        "attR1": [
+            "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
     "data/addgene_plasmids/188543.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -25024,6 +25871,17 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/67666.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB3": [
+            "CAACTATGTATAATAAAGTTG"
+        ]
+    },
     "data/addgene_plasmids/121707.addgene-full.gb": {
         "attL5": [
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTATACAAAAGTTG"
@@ -25143,12 +26001,28 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/46706.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGC"
+        ]
+    },
     "data/addgene_plasmids/166166.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/37625.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/121828.addgene-full.gb": {
@@ -25398,6 +26272,14 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/37866.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/116620.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCA"
@@ -25522,6 +26404,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/71107.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATT"
         ]
     },
     "data/addgene_plasmids/113742.addgene-full.gb": {
@@ -25988,6 +26878,17 @@
     "data/addgene_plasmids/178298.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/64314.depositor-full.gb": {
+        "attB4": [
+            "CAACTTTGTATAGAAAAGTTG"
+        ],
+        "attB1": [
+            "CCAAGTTTGTACAAAAAAGCAGGCT"
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
@@ -26480,6 +27381,14 @@
         ],
         "attR2": [
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/46654.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/195370.addgene-full.gb": {
@@ -27224,6 +28133,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/46684.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
+        ]
+    },
     "data/addgene_plasmids/53581.addgene-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -27700,6 +28617,14 @@
             "ACCACTTTGTACAAGAAAGTTGGCA"
         ]
     },
+    "data/addgene_plasmids/48078.addgene-full.gb": {
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGC"
+        ],
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ]
+    },
     "data/addgene_plasmids/113597.addgene-full.gb": {},
     "data/addgene_plasmids/210484.addgene-full.gb": {
         "attR1": [
@@ -27766,6 +28691,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/20579.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGT"
         ]
     },
     "data/addgene_plasmids/156169.addgene-full.gb": {
@@ -28419,6 +29352,14 @@
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/19879.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/170599.addgene-full.gb": {
         "attB4": [
             "CAACTTTGTATAGAAAAGTTG"
@@ -28654,6 +29595,14 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/38068.addgene-full.gb": {
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ]
+    },
     "data/addgene_plasmids/14350.depositor-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -28684,6 +29633,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
+    "data/addgene_plasmids/50781.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/54357.depositor-full.gb": {},
@@ -28723,6 +29680,7 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGGT"
         ]
     },
+    "data/addgene_plasmids/41913.addgene-full.gb": {},
     "data/addgene_plasmids/19373.depositor-full.gb": {
         "attR2": [
             "CCACTTTGTACAAGAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATGCAGTCACTATG"
@@ -28937,6 +29895,17 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/67654.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB3": [
+            "CAACTATGTATAATAAAGTTG"
+        ]
+    },
     "data/addgene_plasmids/81458.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -28965,6 +29934,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/46734.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
         ]
     },
     "data/addgene_plasmids/131899.addgene-full.gb": {
@@ -29018,6 +29995,14 @@
         ],
         "attB3": [
             "CAACTATGTATAATAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/19889.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/82871.addgene-full.gb": {
@@ -30172,6 +31157,14 @@
         ]
     },
     "data/addgene_plasmids/113603.addgene-full.gb": {},
+    "data/addgene_plasmids/53068.depositor-full.gb": {
+        "attR1": [
+            "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
     "data/addgene_plasmids/161424.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACACATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -30204,6 +31197,14 @@
         ]
     },
     "data/addgene_plasmids/172695.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/50779.depositor-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
@@ -30266,6 +31267,14 @@
         ],
         "attR2": [
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/40982.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGTC"
         ]
     },
     "data/addgene_plasmids/181719.addgene-full.gb": {
@@ -30689,6 +31698,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/64640.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
     "data/addgene_plasmids/121826.addgene-full.gb": {
         "attR4": [
             "CAACTTTGTATAGAAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -30833,6 +31850,11 @@
         ],
         "attL3": [
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTATAATAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/19871.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
         ]
     },
     "data/addgene_plasmids/82979.addgene-full.gb": {
@@ -31259,6 +32281,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
+    "data/addgene_plasmids/46666.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/178688.addgene-full.gb": {
@@ -32367,6 +33397,22 @@
             "ACAAGTTTGTACAAAAAAGTTGGCA"
         ]
     },
+    "data/addgene_plasmids/20652.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGC"
+        ]
+    },
+    "data/addgene_plasmids/65378.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/113488.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGTTGGCA"
@@ -32560,6 +33606,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/46700.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGC"
         ]
     },
     "data/addgene_plasmids/23900.addgene-full.gb": {
@@ -33063,6 +34117,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/53074.depositor-full.gb": {
+        "attR1": [
+            "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
     "data/addgene_plasmids/132310.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACACATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -33150,6 +34212,14 @@
         ],
         "attB3": [
             "CAACTATGTATAATAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/59390.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/102400.addgene-full.gb": {
@@ -33439,6 +34509,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/46728.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/109751.addgene-full.gb": {
         "attB1": [
             "GCAAGTTTGTACAAAAAAGCAGGCT"
@@ -33679,6 +34757,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/31357.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGC"
+        ]
+    },
     "data/addgene_plasmids/80814.depositor-full.gb": {
         "attR2": [
             "CCACTTTGTACAAGAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATGCAGTCACTATG"
@@ -33900,6 +34986,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCCTATAATGCCAACTTTGTACAAGAAAGTTGATT"
+        ]
+    },
+    "data/addgene_plasmids/66753.depositor-full.gb": {
+        "attL2": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attL1": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
         ]
     },
     "data/addgene_plasmids/168968.depositor-full.gb": {
@@ -34216,6 +35310,14 @@
     },
     "data/addgene_plasmids/37846.depositor-full.gb": {},
     "data/addgene_plasmids/221430.addgene-full.gb": {},
+    "data/addgene_plasmids/46682.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGA"
+        ]
+    },
     "data/addgene_plasmids/166190.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -34577,6 +35679,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGACAACTTTGTACAAGAAAGTTGGCA"
         ]
     },
+    "data/addgene_plasmids/37141.depositor-full.gb": {
+        "attL1": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attL2": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/209353.addgene-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -34675,6 +35785,17 @@
         ],
         "attR2": [
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/58959.depositor-full.gb": {
+        "attB4": [
+            "CAACTTTGTATAGAAAAGTTG"
+        ],
+        "attB1": [
+            "CCAACTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACAACTTTGTACAAGAAAGTTGATT"
         ]
     },
     "data/addgene_plasmids/84392.addgene-full.gb": {
@@ -34779,12 +35900,28 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/46652.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/132357.addgene-full.gb": {
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ],
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ]
+    },
+    "data/addgene_plasmids/20487.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGCA"
         ]
     },
     "data/addgene_plasmids/209221.addgene-full.gb": {
@@ -34851,6 +35988,14 @@
         ]
     },
     "data/addgene_plasmids/202652.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/65399.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
@@ -34928,6 +36073,14 @@
         ],
         "attR2": [
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/65092.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/81324.addgene-full.gb": {
@@ -35300,6 +36453,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATTATTTTTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/46731.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
+        ]
+    },
     "data/addgene_plasmids/132064.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACACATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -35382,6 +36543,14 @@
         ],
         "attB4": [
             "CCACTTTGTATAGAAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/47546.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/62085.depositor-full.gb": {
@@ -35498,6 +36667,15 @@
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTATAATAAAGTTG"
         ]
     },
+    "data/addgene_plasmids/38075.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT",
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/97019.addgene-full.gb": {},
     "data/addgene_plasmids/132116.addgene-full.gb": {
         "attL1": [
@@ -35529,6 +36707,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGTTGGGC"
+        ]
+    },
+    "data/addgene_plasmids/65377.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/141007.addgene-full.gb": {
@@ -36099,6 +37285,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCCTATAATGCCAACTTTGTACAAGAAAGTTGATA"
         ]
     },
+    "data/addgene_plasmids/45597.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/206259.addgene-full.gb": {
         "attL5": [
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTATACAAAAGTTG"
@@ -36219,6 +37413,7 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/62866.depositor-full.gb": {},
     "data/addgene_plasmids/136873.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -36418,6 +37613,14 @@
         ],
         "attL3": [
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTATAATAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/30166.addgene-full.gb": {
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
         ]
     },
     "data/addgene_plasmids/14355.depositor-full.gb": {
@@ -37242,6 +38445,14 @@
             "ACCACTTTGTACAAGAAAGTTGATT"
         ]
     },
+    "data/addgene_plasmids/18112.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/87209.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -37765,6 +38976,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGCA"
         ]
     },
+    "data/addgene_plasmids/46719.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
+        ]
+    },
     "data/addgene_plasmids/130864.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -38084,6 +39303,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCCTATAATGCCAACTTTGTACAAGAAAGTTGAGA"
         ]
     },
+    "data/addgene_plasmids/52085.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/65514.depositor-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -38130,6 +39357,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/59389.depositor-full.gb": {
+        "attL1": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attL2": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/161124.addgene-full.gb": {
@@ -38536,6 +39771,17 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/67665.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB3": [
+            "CAACTATGTATAATAAAGTTG"
+        ]
+    },
     "data/addgene_plasmids/149332.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -38637,6 +39883,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
+    "data/addgene_plasmids/46705.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGC"
         ]
     },
     "data/addgene_plasmids/168917.addgene-full.gb": {
@@ -38826,6 +40080,14 @@
         ]
     },
     "data/addgene_plasmids/155590.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/134732.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
@@ -39077,6 +40339,14 @@
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTATAATAAAGTTG"
         ]
     },
+    "data/addgene_plasmids/64608.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCC"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
     "data/addgene_plasmids/83165.depositor-full.gb": {
         "attL1": [
             "GAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -39153,6 +40423,14 @@
         ],
         "attB4": [
             "CCACTTTGTATAGAAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/53071.depositor-full.gb": {
+        "attR1": [
+            "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
     "data/addgene_plasmids/178666.addgene-full.gb": {
@@ -39751,6 +41029,15 @@
             "TCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/38067.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT",
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/135213.addgene-full.gb": {
         "attR2": [
             "ACCACTTTGTACAAGAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATGCAGTCACTATG"
@@ -40215,6 +41502,11 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/48079.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ]
+    },
     "data/addgene_plasmids/54366.depositor-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -40232,6 +41524,14 @@
         ]
     },
     "data/addgene_plasmids/162075.addgene-full.gb": {},
+    "data/addgene_plasmids/27100.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGATG"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGTTA"
+        ]
+    },
     "data/addgene_plasmids/98376.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGTTGGCA"
@@ -40673,6 +41973,20 @@
             "ACCACTTTGTACAAGAAAGTTGGGT"
         ]
     },
+    "data/addgene_plasmids/49519.depositor-full.gb": {
+        "attB4": [
+            "CAACTTTGTATAGAAAAGTTG"
+        ],
+        "attB1": [
+            "TCAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB3": [
+            "CAACTATGTATAATAAAGTTG"
+        ]
+    },
     "data/addgene_plasmids/81624.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -40944,6 +42258,14 @@
         ],
         "attL4": [
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTATAGAAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/46657.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/115396.addgene-full.gb": {},
@@ -41540,6 +42862,14 @@
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTATAATAAAGTTG"
         ]
     },
+    "data/addgene_plasmids/31783.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/123053.addgene-full.gb": {},
     "data/addgene_plasmids/132132.addgene-full.gb": {
         "attL1": [
@@ -41634,6 +42964,14 @@
         ]
     },
     "data/addgene_plasmids/90086.addgene-full.gb": {},
+    "data/addgene_plasmids/46687.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
+        ]
+    },
     "data/addgene_plasmids/195948.addgene-full.gb": {
         "attL4": [
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTATAGAAAAGTTG"
@@ -41688,6 +43026,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCCTATAATGCCAACTTTGTACAAGAAAGTTGAGG"
+        ]
+    },
+    "data/addgene_plasmids/38086.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/203508.addgene-full.gb": {
@@ -41949,6 +43295,14 @@
         ]
     },
     "data/addgene_plasmids/97000.addgene-full.gb": {},
+    "data/addgene_plasmids/59427.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/86161.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -42236,6 +43590,14 @@
             "CAAGTTTGTACAAAAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATGCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/65369.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGAAG"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGC"
+        ]
+    },
     "data/addgene_plasmids/162977.addgene-full.gb": {
         "attL5": [
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTATACAAAAGTTG"
@@ -42420,6 +43782,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGGT"
         ]
     },
+    "data/addgene_plasmids/31784.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/123054.addgene-full.gb": {},
     "data/addgene_plasmids/132135.addgene-full.gb": {
         "attL1": [
@@ -42494,6 +43864,14 @@
         ]
     },
     "data/addgene_plasmids/54356.depositor-full.gb": {},
+    "data/addgene_plasmids/50780.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/181711.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -43090,6 +44468,14 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/19888.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/160130.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -43303,6 +44689,22 @@
             "CAAGTTTGTACAAAAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATGCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/25044.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/63893.addgene-full.gb": {
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ]
+    },
     "data/addgene_plasmids/85731.addgene-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -43317,6 +44719,15 @@
         ],
         "attR1": [
             "ACAAGTTTGTACAAAAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATGCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/38071.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT",
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/68555.depositor-full.gb": {
@@ -44109,6 +45520,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/50778.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/129682.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -44123,6 +45542,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGTTGATT"
+        ]
+    },
+    "data/addgene_plasmids/53069.depositor-full.gb": {
+        "attR1": [
+            "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
     "data/addgene_plasmids/84383.addgene-full.gb": {
@@ -45004,6 +46431,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/51719.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/145002.depositor-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGTTGGCA"
@@ -45028,6 +46463,14 @@
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTATAGAAAAGTTG"
         ]
     },
+    "data/addgene_plasmids/134735.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/198755.addgene-full.gb": {
         "attB4": [
             "CAACTTTGTATAGAAAAGTTG"
@@ -45039,12 +46482,29 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/38089.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT",
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/161107.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACACATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/46667.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/81522.addgene-full.gb": {
@@ -46892,6 +48352,22 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/65391.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
+    "data/addgene_plasmids/42650.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/97064.addgene-full.gb": {},
     "data/addgene_plasmids/83387.addgene-full.gb": {
         "attB1": [
@@ -47033,6 +48509,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/53075.depositor-full.gb": {
+        "attR1": [
+            "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
     "data/addgene_plasmids/60268.addgene-full.gb": {
@@ -47645,6 +49129,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGGT"
         ]
     },
+    "data/addgene_plasmids/63798.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/168527.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -47855,6 +49347,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/46683.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGA"
+        ]
+    },
     "data/addgene_plasmids/87978.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -48060,6 +49560,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/66752.depositor-full.gb": {
+        "attL2": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attL1": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
         ]
     },
     "data/addgene_plasmids/83149.depositor-full.gb": {
@@ -48532,6 +50040,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/65370.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/116602.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGTTGGCA"
@@ -48719,6 +50235,14 @@
         ]
     },
     "data/addgene_plasmids/159664.addgene-full.gb": {},
+    "data/addgene_plasmids/65093.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/70364.depositor-full.gb": {
         "attL1": [
             "GAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -48883,6 +50407,22 @@
     "data/addgene_plasmids/176950.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/65747.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/46653.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
@@ -49288,6 +50828,14 @@
         ],
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ]
+    },
+    "data/addgene_plasmids/46730.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/132164.addgene-full.gb": {
@@ -49910,6 +51458,15 @@
         ],
         "attR2": [
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/38074.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT",
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/200717.addgene-full.gb": {
@@ -50817,6 +52374,14 @@
             "ACCACTTTGTACAAGAAAGTTGGGT"
         ]
     },
+    "data/addgene_plasmids/20005.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/169976.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -50834,6 +52399,14 @@
         ]
     },
     "data/addgene_plasmids/54353.depositor-full.gb": {},
+    "data/addgene_plasmids/50785.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/162888.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -51189,6 +52762,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/40907.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/81364.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -51211,6 +52792,14 @@
         ],
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGAAG"
+        ]
+    },
+    "data/addgene_plasmids/42563.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/161330.depositor-full.gb": {
@@ -51291,6 +52880,14 @@
     "data/addgene_plasmids/203519.addgene-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/217661.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/159656.addgene-full.gb": {},
@@ -51484,6 +53081,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/46662.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/19732.addgene-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -51504,6 +53109,14 @@
         ],
         "attB3": [
             "CAACTATGTATAATAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/18113.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/43808.addgene-full.gb": {
@@ -51641,6 +53254,11 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/71119.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ]
+    },
     "data/addgene_plasmids/82110.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -51671,6 +53289,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
+    "data/addgene_plasmids/25737.addgene-full.gb": {
+        "attR1": [
+            "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
     "data/addgene_plasmids/132265.addgene-full.gb": {
@@ -52466,6 +54092,14 @@
             "CAACTTTGTATAATAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/59388.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/121717.addgene-full.gb": {
         "attL5": [
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTATACAAAAGTTG"
@@ -52844,6 +54478,14 @@
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/46704.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGC"
+        ]
+    },
     "data/addgene_plasmids/144871.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGTTGGCA"
@@ -52957,6 +54599,17 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/67664.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "GCCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB3": [
+            "CAACTATGTATAATAAAGTTG"
         ]
     },
     "data/addgene_plasmids/161428.depositor-full.gb": {
@@ -53190,6 +54843,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGCA"
         ]
     },
+    "data/addgene_plasmids/53070.depositor-full.gb": {
+        "attR1": [
+            "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
     "data/addgene_plasmids/186386.addgene-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -53400,6 +55061,14 @@
         ],
         "attL5": [
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTATACAAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/31732.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGC"
         ]
     },
     "data/addgene_plasmids/195832.addgene-full.gb": {
@@ -54042,6 +55711,14 @@
         ]
     },
     "data/addgene_plasmids/209071.addgene-full.gb": {},
+    "data/addgene_plasmids/40292.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/82272.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -54136,6 +55813,14 @@
     },
     "data/addgene_plasmids/112814.addgene-full.gb": {},
     "data/addgene_plasmids/140320.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/66806.depositor-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
@@ -54247,6 +55932,20 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/49518.depositor-full.gb": {
+        "attB4": [
+            "CAACTTTGTATAGAAAAGTTG"
+        ],
+        "attB1": [
+            "TCAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB3": [
+            "CAACTATGTATAATAAAGTTG"
         ]
     },
     "data/addgene_plasmids/116399.addgene-full.gb": {
@@ -54828,6 +56527,14 @@
         ]
     },
     "data/addgene_plasmids/173166.addgene-full.gb": {},
+    "data/addgene_plasmids/46656.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/138369.addgene-full.gb": {
         "attB4": [
             "CAACTTTGTATAGAAAAGTTG"
@@ -55148,6 +56855,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGC"
         ]
     },
+    "data/addgene_plasmids/68810.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/158737.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -55178,6 +56893,7 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/41914.addgene-full.gb": {},
     "data/addgene_plasmids/141258.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -55418,6 +57134,14 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/65387.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/113477.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -55552,6 +57276,22 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/60077.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCG"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/71116.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/116787.addgene-full.gb": {
@@ -55695,6 +57435,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/55605.addgene-full.gb": {
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
         ]
     },
     "data/addgene_plasmids/186402.addgene-full.gb": {
@@ -55858,6 +57606,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/46686.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
+        ]
+    },
     "data/addgene_plasmids/81307.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -55909,6 +57665,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGTTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/25736.depositor-full.gb": {
+        "attR1": [
+            "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
     "data/addgene_plasmids/144922.addgene-full.gb": {
@@ -56196,6 +57960,15 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
+    "data/addgene_plasmids/38085.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGTC",
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/81576.addgene-full.gb": {
@@ -57152,6 +58925,14 @@
             "ACCACTTTGTACAAGAAAGTTGGCA"
         ]
     },
+    "data/addgene_plasmids/53065.depositor-full.gb": {
+        "attR1": [
+            "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
     "data/addgene_plasmids/175573.addgene-full.gb": {},
     "data/addgene_plasmids/187686.addgene-full.gb": {
         "attB1": [
@@ -57177,6 +58958,14 @@
     "data/addgene_plasmids/116401.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/50774.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
@@ -57487,6 +59276,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/184469.addgene-full.gb": {
+        "attL1": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attL2": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/19705.depositor-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -57576,6 +59373,14 @@
         ]
     },
     "data/addgene_plasmids/98407.addgene-full.gb": {},
+    "data/addgene_plasmids/46711.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
+        ]
+    },
     "data/addgene_plasmids/81288.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -57867,6 +59672,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/46693.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
+        ]
+    },
     "data/addgene_plasmids/166109.addgene-full.gb": {},
     "data/addgene_plasmids/24898.depositor-full.gb": {
         "attB1": [
@@ -57930,6 +59743,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/51077.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGTC"
         ]
     },
     "data/addgene_plasmids/144965.addgene-full.gb": {
@@ -58344,6 +60165,14 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/65663.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/59764.depositor-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -58708,6 +60537,14 @@
         ],
         "attB4": [
             "CCACTTTGTATAGAAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/20551.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGT"
         ]
     },
     "data/addgene_plasmids/167753.addgene-full.gb": {
@@ -59322,6 +61159,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCCTATAATGCCAACTTTGTACAAGAAAGTTGATT"
         ]
     },
+    "data/addgene_plasmids/40978.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGTC"
+        ]
+    },
     "data/addgene_plasmids/209351.addgene-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -59374,6 +61219,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGGC"
+        ]
+    },
+    "data/addgene_plasmids/45933.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGC"
         ]
     },
     "data/addgene_plasmids/123082.addgene-full.gb": {
@@ -59627,6 +61480,11 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/37962.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
         ]
     },
     "data/addgene_plasmids/128711.addgene-full.gb": {
@@ -59992,6 +61850,14 @@
             "ACCACTTTGTACAAGAAAGTTGGGT"
         ]
     },
+    "data/addgene_plasmids/169266.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/87166.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -60308,6 +62174,14 @@
             "CAACTTTGTATAGAAAAGTTG"
         ]
     },
+    "data/addgene_plasmids/59148.depositor-full.gb": {
+        "attL1": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attL2": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/124613.addgene-full.gb": {
         "attB3": [
             "CAACTATGTATAATAAAGTTG"
@@ -60452,6 +62326,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/64638.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
     "data/addgene_plasmids/206171.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -60535,6 +62417,14 @@
         ],
         "attB3": [
             "CAACTATGTATAATAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/219955.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/161276.addgene-full.gb": {
@@ -61576,6 +63466,19 @@
             "ACAACTTTGTACAAGAAAGTTGATT"
         ]
     },
+    "data/addgene_plasmids/46743.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/65657.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ]
+    },
     "data/addgene_plasmids/209240.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -61617,6 +63520,14 @@
         ]
     },
     "data/addgene_plasmids/149552.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/59152.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
@@ -61722,6 +63633,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGTTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/70089.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/22599.addgene-full.gb": {
@@ -62140,6 +64059,14 @@
             "CAACTTTGTATAATAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/27305.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/119753.addgene-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -62168,6 +64095,14 @@
         ],
         "attB2": [
             "ACAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/46677.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/160107.addgene-full.gb": {
@@ -62683,6 +64618,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/59904.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/81455.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -63161,6 +65104,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
+    "data/addgene_plasmids/46714.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
         ]
     },
     "data/addgene_plasmids/36435.depositor-full.gb": {
@@ -64157,6 +66108,20 @@
             "CCACTTTGTATAGAAAAGTTG"
         ]
     },
+    "data/addgene_plasmids/49520.depositor-full.gb": {
+        "attB4": [
+            "CAACTTTGTATAGAAAAGTTG"
+        ],
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB3": [
+            "CAACTATGTATAATAAAGTTG"
+        ]
+    },
     "data/addgene_plasmids/141066.addgene-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -64442,6 +66407,14 @@
         ],
         "attR2": [
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/20493.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGCA"
         ]
     },
     "data/addgene_plasmids/209235.addgene-full.gb": {
@@ -64809,6 +66782,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGCC"
         ]
     },
+    "data/addgene_plasmids/67404.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/81412.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -65021,6 +67002,14 @@
         ]
     },
     "data/addgene_plasmids/158359.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/48223.depositor-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
@@ -65379,6 +67368,24 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/38084.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT",
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/38078.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT",
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/177688.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -65393,6 +67400,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/46696.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGC"
         ]
     },
     "data/addgene_plasmids/192737.addgene-full.gb": {
@@ -65510,6 +67525,14 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/37858.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGAGA"
+        ]
+    },
     "data/addgene_plasmids/116685.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCA"
@@ -65522,6 +67545,14 @@
         ]
     },
     "data/addgene_plasmids/97002.addgene-full.gb": {},
+    "data/addgene_plasmids/59151.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/86163.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -65677,6 +67708,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/19881.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/202435.addgene-full.gb": {
         "attB2": [
             "ACCACTTTGTACAAGAAAGTTGGGC"
@@ -65710,6 +67749,14 @@
         ],
         "attB3": [
             "CAACTATGTATAATAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/35635.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/187690.addgene-full.gb": {
@@ -65806,6 +67853,14 @@
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/65666.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/144995.depositor-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCA"
@@ -65892,6 +67947,14 @@
     "data/addgene_plasmids/175751.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/37865.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCA"
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
@@ -66239,6 +68302,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
+    "data/addgene_plasmids/65375.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGT"
         ]
     },
     "data/addgene_plasmids/141005.addgene-full.gb": {
@@ -66928,6 +68999,14 @@
             "CAACTTTGTATAATAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/17455.depositor-full.gb": {
+        "attL1": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attL2": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/138109.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -66950,6 +69029,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/64065.depositor-full.gb": {
+        "attL1": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attL2": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/14344.depositor-full.gb": {
@@ -67252,6 +69339,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCCTATAATGCCAACTTTGTACAAGAAAGTTGATA"
         ]
     },
+    "data/addgene_plasmids/60600.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/98350.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGTTGGCA"
@@ -67434,6 +69529,14 @@
         ]
     },
     "data/addgene_plasmids/105348.addgene-full.gb": {},
+    "data/addgene_plasmids/48694.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/161368.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACACATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -67813,6 +69916,14 @@
         ],
         "attR3": [
             "CAAGTTTGTATAATAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/46672.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/160407.addgene-full.gb": {
@@ -68285,6 +70396,14 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/20563.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGC"
+        ]
+    },
     "data/addgene_plasmids/111660.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGTTGGCA"
@@ -68502,6 +70621,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
+    "data/addgene_plasmids/145364.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/14155.addgene-full.gb": {
@@ -68936,6 +71063,7 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/26110.addgene-full.gb": {},
     "data/addgene_plasmids/168931.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGAAG"
@@ -69053,6 +71181,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/64613.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGCA"
         ]
     },
     "data/addgene_plasmids/121875.addgene-full.gb": {
@@ -69190,6 +71326,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/46708.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGC"
         ]
     },
     "data/addgene_plasmids/20349.addgene-full.gb": {
@@ -69383,6 +71527,20 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGCA"
         ]
     },
+    "data/addgene_plasmids/67668.depositor-full.gb": {
+        "attB4": [
+            "CAACTTTGTATAGAAAAGTTG"
+        ],
+        "attB1": [
+            "TCAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB3": [
+            "CAACTATGTATAATAAAGTTG"
+        ]
+    },
     "data/addgene_plasmids/14258.depositor-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -69566,6 +71724,14 @@
         ]
     },
     "data/addgene_plasmids/105394.addgene-full.gb": {},
+    "data/addgene_plasmids/17443.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/107281.depositor-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -70437,6 +72603,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/50775.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/132289.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACACATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -70890,6 +73064,14 @@
             "CAACTTTGTATAGAAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/20564.addgene-full.gb": {
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGT"
+        ],
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ]
+    },
     "data/addgene_plasmids/51493.depositor-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -70904,6 +73086,14 @@
         ],
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/46710.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
         ]
     },
     "data/addgene_plasmids/81388.addgene-full.gb": {
@@ -71470,6 +73660,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/51076.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGTC"
+        ]
+    },
     "data/addgene_plasmids/144865.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGTTGGCA"
@@ -71567,6 +73765,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGTTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/46692.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
         ]
     },
     "data/addgene_plasmids/88309.addgene-full.gb": {
@@ -71714,6 +73920,14 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/59769.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/100156.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGTTGGCA"
@@ -71763,6 +73977,14 @@
         ]
     },
     "data/addgene_plasmids/118640.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/59155.depositor-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
@@ -71846,6 +74068,14 @@
         ]
     },
     "data/addgene_plasmids/19885.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/66803.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
@@ -71953,6 +74183,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
+    "data/addgene_plasmids/65662.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/109653.addgene-full.gb": {
@@ -72485,6 +74723,14 @@
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTATAATAAAGTTG"
         ]
     },
+    "data/addgene_plasmids/20585.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
     "data/addgene_plasmids/132255.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACACATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -72566,6 +74812,14 @@
         ],
         "attB3": [
             "CAACTATGTATAATAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/40991.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGTC"
         ]
     },
     "data/addgene_plasmids/65756.depositor-full.gb": {
@@ -72823,6 +75077,14 @@
             "CAACTTTGTATACAAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/65372.addgene-full.gb": {
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ]
+    },
     "data/addgene_plasmids/116600.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGTTGGCA"
@@ -72966,6 +75228,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATTATTTTTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/16183.addgene-full.gb": {
+        "attL1": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attL2": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGGT"
+        ]
+    },
     "data/addgene_plasmids/132113.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACACATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -73023,6 +75293,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATTATTTTTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/20507.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGCA"
         ]
     },
     "data/addgene_plasmids/74858.depositor-full.gb": {
@@ -73352,6 +75630,14 @@
             "CCACTTTGTATAGAAAAGTTG"
         ]
     },
+    "data/addgene_plasmids/51720.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/88887.addgene-full.gb": {},
     "data/addgene_plasmids/187697.addgene-full.gb": {
         "attB1": [
@@ -73432,6 +75718,14 @@
         ],
         "attL3": [
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTATAATAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/45932.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGC"
         ]
     },
     "data/addgene_plasmids/184811.addgene-full.gb": {
@@ -73622,6 +75916,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
+    "data/addgene_plasmids/20641.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGT"
         ]
     },
     "data/addgene_plasmids/162975.addgene-full.gb": {
@@ -74533,6 +76835,7 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/65630.depositor-full.gb": {},
     "data/addgene_plasmids/120861.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -74633,6 +76936,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
         ]
     },
+    "data/addgene_plasmids/27626.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/182729.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -74655,6 +76966,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/53078.depositor-full.gb": {
+        "attR1": [
+            "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
     "data/addgene_plasmids/156084.addgene-full.gb": {
@@ -74797,6 +77116,14 @@
         "attB5": [
             "CCACTTTGTATACAAAAGTTG"
         ],
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/19873.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
@@ -75338,6 +77665,14 @@
         ]
     },
     "data/addgene_plasmids/158382.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/46676.depositor-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
@@ -76568,6 +78903,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/59905.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/81555.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -76811,6 +79154,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGGT"
         ]
     },
+    "data/addgene_plasmids/65401.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/116173.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCA"
@@ -76942,6 +79293,14 @@
     "data/addgene_plasmids/136860.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/133902.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
@@ -77162,6 +79521,14 @@
         ]
     },
     "data/addgene_plasmids/49311.depositor-full.gb": {},
+    "data/addgene_plasmids/61684.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/87069.addgene-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -77690,6 +80057,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/31789.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/132138.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACACATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -77830,6 +80205,20 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/49521.depositor-full.gb": {
+        "attB4": [
+            "CAACTTTGTATAGAAAAGTTG"
+        ],
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "CCCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB3": [
+            "CAACTATGTATAATAAAGTTG"
+        ]
+    },
     "data/addgene_plasmids/141286.addgene-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -77930,6 +80319,14 @@
         ]
     },
     "data/addgene_plasmids/104883.addgene-full.gb": {},
+    "data/addgene_plasmids/20447.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGC"
+        ]
+    },
     "data/addgene_plasmids/83872.depositor-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -78254,6 +80651,14 @@
         ],
         "attR2": [
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/64602.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGCA"
         ]
     },
     "data/addgene_plasmids/70617.depositor-full.gb": {
@@ -78956,6 +81361,14 @@
             "ACCACTTTGTACAAGAAAGTTGATT"
         ]
     },
+    "data/addgene_plasmids/43797.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/14174.depositor-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -79175,6 +81588,15 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/38079.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT",
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/177788.addgene-full.gb": {
         "attB4": [
             "CAACTTTGTATAGAAAAGTTG"
@@ -79348,6 +81770,7 @@
             "CCACTTTGTATAGAAAAGTTG"
         ]
     },
+    "data/addgene_plasmids/41916.addgene-full.gb": {},
     "data/addgene_plasmids/168899.depositor-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGAAG"
@@ -79496,6 +81919,14 @@
         ],
         "attR1": [
             "ACAAGTTTGTACAAAAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATGCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/65667.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/164950.addgene-full.gb": {
@@ -80083,6 +82514,14 @@
             "CCACTTTGTATAGAAAAGTTG"
         ]
     },
+    "data/addgene_plasmids/37941.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGA"
+        ]
+    },
     "data/addgene_plasmids/209219.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -80597,6 +83036,14 @@
             "CCACTTTGTATAGAAAAGTTG"
         ]
     },
+    "data/addgene_plasmids/20419.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGC"
+        ]
+    },
     "data/addgene_plasmids/156009.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGTTGGCA"
@@ -80992,6 +83439,17 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATTATTTTTTATAATGCCAACTTTGTACAAGAAAGCTGGGC"
         ]
     },
+    "data/addgene_plasmids/71393.depositor-full.gb": {
+        "attB4": [
+            "CAACTTTGTATAGAAAAGTTG"
+        ],
+        "attB1": [
+            "ACAACTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACAACTTTGTACAAGAAAGTTGGTT"
+        ]
+    },
     "data/addgene_plasmids/201234.addgene-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -81086,6 +83544,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGG"
+        ]
+    },
+    "data/addgene_plasmids/136525.addgene-full.gb": {
+        "attL2": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attL1": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
         ]
     },
     "data/addgene_plasmids/161327.addgene-full.gb": {
@@ -81378,6 +83844,14 @@
         ],
         "attR1": [
             "CAAGTTTGTACAAAAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATGCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/60556.depositor-full.gb": {
+        "attR1": [
+            "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
     "data/addgene_plasmids/70512.depositor-full.gb": {
@@ -81787,6 +84261,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/25735.addgene-full.gb": {
+        "attR1": [
+            "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
     "data/addgene_plasmids/132267.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACACATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -81809,6 +84291,14 @@
         ],
         "attR5": [
             "CAACTTTGTATACAAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/46673.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/158562.addgene-full.gb": {
@@ -83125,6 +85615,14 @@
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTATAGAAAAGTTG"
         ]
     },
+    "data/addgene_plasmids/46709.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGC"
+        ]
+    },
     "data/addgene_plasmids/36428.depositor-full.gb": {
         "attR2": [
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -83731,6 +86229,15 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/38087.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT",
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/19066.addgene-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -83822,6 +86329,14 @@
         ]
     },
     "data/addgene_plasmids/97018.depositor-full.gb": {},
+    "data/addgene_plasmids/51717.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/70310.depositor-full.gb": {
         "attL1": [
             "GAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -83889,6 +86404,14 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/64018.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/222927.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -83939,6 +86462,14 @@
         ],
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/66802.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/186393.addgene-full.gb": {
@@ -84112,6 +86643,14 @@
             "ACCACTTTGTACAAGAAAGTTGGCA"
         ]
     },
+    "data/addgene_plasmids/25734.depositor-full.gb": {
+        "attR1": [
+            "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
     "data/addgene_plasmids/19633.depositor-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCATATTG"
@@ -84146,6 +86685,14 @@
         ],
         "attR2": [
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/46713.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
         ]
     },
     "data/addgene_plasmids/195793.addgene-full.gb": {
@@ -84386,6 +86933,14 @@
             "ACCACTTTGTACAAGAAAGTTGGCA"
         ]
     },
+    "data/addgene_plasmids/68497.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/195968.addgene-full.gb": {
         "attR2": [
             "CCACTTTGTACAAGAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATGCAGTCACTATG"
@@ -84461,6 +87016,14 @@
             "ACCACTTTGTACAAGAAAGTTGGGC"
         ]
     },
+    "data/addgene_plasmids/65373.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGAAG"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGC"
+        ]
+    },
     "data/addgene_plasmids/116601.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGTTGGCA"
@@ -84478,6 +87041,14 @@
         ]
     },
     "data/addgene_plasmids/172995.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/50776.depositor-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
@@ -84515,6 +87086,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGTTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/53067.depositor-full.gb": {
+        "attR1": [
+            "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
     "data/addgene_plasmids/187766.addgene-full.gb": {
@@ -84609,6 +87188,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/16182.addgene-full.gb": {
+        "attL1": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attL2": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGGT"
         ]
     },
     "data/addgene_plasmids/78863.depositor-full.gb": {
@@ -85065,6 +87652,14 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/65661.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/161266.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACACATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -85278,6 +87873,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/24180.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/81477.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -85292,6 +87895,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/64628.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGCA"
         ]
     },
     "data/addgene_plasmids/109767.addgene-full.gb": {
@@ -85553,6 +88164,14 @@
             "ACCACTTTGTACAAGAAAGTTGGGT"
         ]
     },
+    "data/addgene_plasmids/46691.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
+        ]
+    },
     "data/addgene_plasmids/82863.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -85606,6 +88225,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/64615.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGCA"
         ]
     },
     "data/addgene_plasmids/121873.addgene-full.gb": {
@@ -85885,6 +88512,14 @@
             "ACCACTTTGTACAAGAAAGTTGGGT"
         ]
     },
+    "data/addgene_plasmids/59138.addgene-full.gb": {
+        "attL1": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attL2": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/182731.addgene-full.gb": {},
     "data/addgene_plasmids/116734.addgene-full.gb": {
         "attB1": [
@@ -85898,6 +88533,14 @@
         ]
     },
     "data/addgene_plasmids/158459.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/48224.depositor-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
@@ -86032,6 +88675,14 @@
         ],
         "attB3": [
             "CAACTATGTATAATAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/145362.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/14153.addgene-full.gb": {
@@ -86840,6 +89491,14 @@
             "CAACTATGTATAATAAAGTTG"
         ]
     },
+    "data/addgene_plasmids/38063.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGAAA"
+        ]
+    },
     "data/addgene_plasmids/49289.depositor-full.gb": {},
     "data/addgene_plasmids/81279.addgene-full.gb": {
         "attL1": [
@@ -86863,6 +89522,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/20495.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGCA"
         ]
     },
     "data/addgene_plasmids/115930.addgene-full.gb": {},
@@ -86896,6 +89563,14 @@
         ]
     },
     "data/addgene_plasmids/156085.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/27627.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
@@ -87266,6 +89941,14 @@
         ]
     },
     "data/addgene_plasmids/113592.addgene-full.gb": {},
+    "data/addgene_plasmids/37956.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGG"
+        ]
+    },
     "data/addgene_plasmids/210481.addgene-full.gb": {
         "attR2": [
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -88364,6 +91047,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/35633.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/187696.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -88776,6 +91467,15 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/38082.addgene-full.gb": {
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT",
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ]
+    },
     "data/addgene_plasmids/111381.depositor-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -89120,6 +91820,15 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
+    "data/addgene_plasmids/62846.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT",
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/161143.addgene-full.gb": {
@@ -89480,6 +92189,14 @@
         ]
     },
     "data/addgene_plasmids/106317.addgene-full.gb": {},
+    "data/addgene_plasmids/46047.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/192312.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -89497,6 +92214,14 @@
         ]
     },
     "data/addgene_plasmids/158362.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/46675.depositor-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
@@ -90044,6 +92769,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGCA"
         ]
     },
+    "data/addgene_plasmids/27099.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGATG"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGTTA"
+        ]
+    },
     "data/addgene_plasmids/155472.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGTTGGCA"
@@ -90280,6 +93013,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/46716.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
+        ]
+    },
     "data/addgene_plasmids/81588.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -90375,6 +93116,14 @@
         ]
     },
     "data/addgene_plasmids/168987.addgene-full.gb": {},
+    "data/addgene_plasmids/20906.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/109491.addgene-full.gb": {
         "attB1": [
             "GCAAGTTTGTACAAAAAAGCAGGCT"
@@ -90636,6 +93385,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/50773.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/19381.depositor-full.gb": {
         "attR2": [
             "CCACTTTGTACAAGAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATGCAGTCACTATG"
@@ -90695,6 +93452,14 @@
         ]
     },
     "data/addgene_plasmids/122471.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/59906.depositor-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
@@ -90868,6 +93633,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/20573.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
     "data/addgene_plasmids/84905.depositor-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -91017,6 +93790,20 @@
             "TCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/49522.depositor-full.gb": {
+        "attB4": [
+            "CAACTTTGTATAGAAAAGTTG"
+        ],
+        "attB1": [
+            "TCAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "TCCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB3": [
+            "CAACTATGTATAATAAAGTTG"
+        ]
+    },
     "data/addgene_plasmids/116464.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCA"
@@ -91050,6 +93837,14 @@
         ]
     },
     "data/addgene_plasmids/99992.addgene-full.gb": {},
+    "data/addgene_plasmids/71115.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/116784.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -91409,6 +94204,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGTTGGGC"
+        ]
+    },
+    "data/addgene_plasmids/71117.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/203579.addgene-full.gb": {
@@ -92357,6 +95160,14 @@
             "ACAACTTTGTACAAGAAAGTTGGTC"
         ]
     },
+    "data/addgene_plasmids/59183.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGAAG"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGC"
+        ]
+    },
     "data/addgene_plasmids/144689.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGTTGGCA"
@@ -92537,6 +95348,14 @@
             "CAACTTTGTATACAAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/59154.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/161629.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCA"
@@ -92684,6 +95503,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/60599.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/97144.addgene-full.gb": {
@@ -93255,6 +96082,14 @@
         ],
         "attR2": [
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/46694.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
         ]
     },
     "data/addgene_plasmids/101460.addgene-full.gb": {
@@ -93922,6 +96757,14 @@
             "CAACTATGTATAATAAAGTTG"
         ]
     },
+    "data/addgene_plasmids/48225.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/98693.addgene-full.gb": {
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGCA"
@@ -93972,6 +96815,15 @@
         ],
         "attR3": [
             "CAACTTTGTATAATAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/42560.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT",
+            "ACCACTTTGTACAAGAAAGTTGGCA"
         ]
     },
     "data/addgene_plasmids/70425.depositor-full.gb": {
@@ -94062,6 +96914,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/53855.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/216569.addgene-full.gb": {
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
@@ -94086,12 +96946,29 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/38066.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT",
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/48347.depositor-full.gb": {
         "attR2": [
             "CCACTTTGTACAAGAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATGCAGTCACTATG"
         ],
         "attL3": [
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTATAATAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/68542.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/73187.depositor-full.gb": {
@@ -94153,6 +97030,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATTATTTTTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/46688.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
         ]
     },
     "data/addgene_plasmids/195967.addgene-full.gb": {
@@ -94524,6 +97409,14 @@
             "ACAAGTTTGTACAAAAAAGCAGGCT"
         ]
     },
+    "data/addgene_plasmids/46051.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/200090.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -94578,6 +97471,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/60555.depositor-full.gb": {
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR1": [
+            "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
     "data/addgene_plasmids/136845.addgene-full.gb": {
@@ -94690,6 +97591,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/45934.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGC"
+        ]
+    },
     "data/addgene_plasmids/41391.addgene-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -94712,6 +97621,14 @@
         ],
         "attR2": [
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/46658.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/100158.addgene-full.gb": {
@@ -95580,12 +98497,28 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/27631.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/167681.addgene-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ],
         "attR2": [
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/52051.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/69291.depositor-full.gb": {
@@ -95924,6 +98857,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/46670.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/187788.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -96159,6 +99100,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/46744.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/121687.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -96376,6 +99325,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/49851.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/116111.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCA"
@@ -96523,6 +99480,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGGC"
         ]
     },
+    "data/addgene_plasmids/26310.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/116383.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGAAG"
@@ -96613,6 +99578,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/136524.addgene-full.gb": {
+        "attL2": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attL1": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
         ]
     },
     "data/addgene_plasmids/169728.addgene-full.gb": {
@@ -97094,6 +100067,14 @@
             "ACCACTTTGTACAAGAAAGTTGGCA"
         ]
     },
+    "data/addgene_plasmids/62511.depositor-full.gb": {
+        "attR1": [
+            "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
     "data/addgene_plasmids/226681.addgene-full.gb": {},
     "data/addgene_plasmids/82779.addgene-full.gb": {
         "attL2": [
@@ -97106,6 +100087,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/26317.addgene-full.gb": {
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
         ]
     },
     "data/addgene_plasmids/116384.addgene-full.gb": {
@@ -97155,6 +100144,20 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/49526.depositor-full.gb": {
+        "attB4": [
+            "CAACTTTGTATAGAAAAGTTG"
+        ],
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "CCCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB3": [
+            "CAACTATGTATAATAAAGTTG"
         ]
     },
     "data/addgene_plasmids/224485.addgene-full.gb": {
@@ -97652,6 +100655,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/51716.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/169972.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -97793,6 +100804,14 @@
         ]
     },
     "data/addgene_plasmids/189560.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/46668.depositor-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
@@ -98174,6 +101193,22 @@
         ],
         "attR2": [
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/46712.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
+        ]
+    },
+    "data/addgene_plasmids/27636.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/161159.depositor-full.gb": {
@@ -98559,6 +101594,14 @@
             "ACCACTTTGTACAAGAAAGTTGGGT"
         ]
     },
+    "data/addgene_plasmids/53066.depositor-full.gb": {
+        "attR1": [
+            "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR2": [
+            "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
     "data/addgene_plasmids/187586.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGTTGGCA"
@@ -98597,6 +101640,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/50777.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/97186.addgene-full.gb": {
@@ -98909,6 +101960,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/65660.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/80806.depositor-full.gb": {
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
@@ -99025,6 +102084,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/19887.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/145795.addgene-full.gb": {
@@ -99295,6 +102362,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/46690.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
         ]
     },
     "data/addgene_plasmids/65784.depositor-full.gb": {
@@ -99677,6 +102752,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGTTGGGC"
+        ]
+    },
+    "data/addgene_plasmids/46559.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/175572.addgene-full.gb": {
@@ -100865,6 +103948,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/20648.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGT"
+        ]
+    },
     "data/addgene_plasmids/132278.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACACATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
@@ -100926,6 +104017,17 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/71394.depositor-full.gb": {
+        "attB4": [
+            "CAACTTTGTATAGAAAAGTTG"
+        ],
+        "attB1": [
+            "TCAACTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACAACTTTGTACAAGAAAGTTGGTT"
         ]
     },
     "data/addgene_plasmids/111378.depositor-full.gb": {
@@ -101065,6 +104167,14 @@
         ],
         "attB2": [
             "ACAACTTTGTACAAGAAAGTTGATT"
+        ]
+    },
+    "data/addgene_plasmids/184471.addgene-full.gb": {
+        "attL1": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attL2": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/49322.depositor-full.gb": {},
@@ -102097,6 +105207,14 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/37963.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGTA"
+        ]
+    },
     "data/addgene_plasmids/14210.depositor-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -102977,6 +106095,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGCA"
         ]
     },
+    "data/addgene_plasmids/219954.addgene-full.gb": {
+        "attL1": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attL2": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/189910.addgene-full.gb": {
         "attB4": [
             "CAACTTTGTATAGAAAAGTTG"
@@ -103369,6 +106495,14 @@
             "AAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTATAATAAAGTTG"
         ]
     },
+    "data/addgene_plasmids/48692.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/74795.depositor-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -103707,6 +106841,14 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/64604.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
     "data/addgene_plasmids/115395.addgene-full.gb": {},
     "data/addgene_plasmids/218643.addgene-full.gb": {
         "attB2": [
@@ -103789,6 +106931,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGTTGGGC"
+        ]
+    },
+    "data/addgene_plasmids/66112.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/144627.addgene-full.gb": {
@@ -104207,6 +107357,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/59907.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/105350.addgene-full.gb": {},
     "data/addgene_plasmids/81755.addgene-full.gb": {
         "attL1": [
@@ -104543,6 +107701,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/20907.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/166016.addgene-full.gb": {
         "attB4": [
             "CAACTTTGTATAGAAAAGTTG"
@@ -104753,6 +107919,14 @@
         ],
         "attR1": [
             "CAAGTTTGTACAAAAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATGCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/49523.depositor-full.gb": {
+        "attR4": [
+            "CAACTTTGTATAGAAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ],
+        "attR3": [
+            "CAACTATGTATAATAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
     "data/addgene_plasmids/116564.addgene-full.gb": {
@@ -105801,6 +108975,14 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/134731.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/74843.depositor-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -105887,6 +109069,7 @@
             "ACCACTTTGTACAAGAAAGTTGGGT"
         ]
     },
+    "data/addgene_plasmids/32666.depositor-full.gb": {},
     "data/addgene_plasmids/116309.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCA"
@@ -105896,6 +109079,14 @@
         ],
         "attB4": [
             "CCACTTTGTATAGAAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/60651.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/82840.addgene-full.gb": {
@@ -106290,6 +109481,14 @@
         ],
         "attB3": [
             "CAACTATGTATAATAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/40125.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGTC"
         ]
     },
     "data/addgene_plasmids/221425.addgene-full.gb": {
@@ -106922,6 +110121,14 @@
         ]
     },
     "data/addgene_plasmids/115937.addgene-full.gb": {},
+    "data/addgene_plasmids/46695.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
+        ]
+    },
     "data/addgene_plasmids/123223.addgene-full.gb": {
         "attR1": [
             "ACAAGTTTGTACAAAAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
@@ -107751,6 +110958,14 @@
             "ACAAGTTTGTACAAAAAAGCAGGCA"
         ]
     },
+    "data/addgene_plasmids/145365.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/64885.depositor-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -107783,6 +110998,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/46689.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGG"
+        ]
+    },
     "data/addgene_plasmids/164940.addgene-full.gb": {
         "attB1": [
             "TCAAGTTTGTACAAAAAAGCAGGCT"
@@ -107792,6 +111015,14 @@
         ],
         "attB4": [
             "CAACTTTGTATAGAAAAGTTG"
+        ]
+    },
+    "data/addgene_plasmids/65395.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/83383.addgene-full.gb": {
@@ -108080,6 +111311,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCCTATAATGCCAACTTTGTACAAGAAAGTTGATT"
         ]
     },
+    "data/addgene_plasmids/26111.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/168930.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGAAG"
@@ -108307,6 +111546,14 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/64612.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGCA"
+        ]
+    },
     "data/addgene_plasmids/114129.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -108435,6 +111682,20 @@
             "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
+    "data/addgene_plasmids/49517.depositor-full.gb": {
+        "attB4": [
+            "CAACTTTGTATAGAAAAGTTG"
+        ],
+        "attB1": [
+            "TCAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ],
+        "attB3": [
+            "CAACTATGTATAATAAAGTTG"
+        ]
+    },
     "data/addgene_plasmids/109569.addgene-full.gb": {
         "attR2": [
             "ACCACTTTGTACAAGAAAGTTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATGCAGTCACTATG"
@@ -108513,6 +111774,14 @@
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGC"
+        ]
+    },
+    "data/addgene_plasmids/26325.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/144882.addgene-full.gb": {
@@ -108610,6 +111879,14 @@
         ],
         "attL2": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/64066.depositor-full.gb": {
+        "attL1": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attL2": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/14347.depositor-full.gb": {
@@ -108952,6 +112229,14 @@
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTCTTATAATGCCAACTTTGTACAAGAAAGTTGGGT"
         ]
     },
+    "data/addgene_plasmids/46659.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
     "data/addgene_plasmids/106093.addgene-full.gb": {
         "attB1": [
             "ACAAGTTTGTACAAAAAAGCAGGCT"
@@ -108998,6 +112283,14 @@
         ],
         "attR2": [
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/45935.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGC"
         ]
     },
     "data/addgene_plasmids/115222.addgene-full.gb": {
@@ -109192,6 +112485,14 @@
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
         ]
     },
+    "data/addgene_plasmids/31214.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGC"
+        ]
+    },
     "data/addgene_plasmids/82054.addgene-full.gb": {
         "attL1": [
             "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATGAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGTTGGCA"
@@ -109312,6 +112613,14 @@
         ],
         "attR2": [
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/42555.addgene-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGTTGGCA"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGTTGGGG"
         ]
     },
     "data/addgene_plasmids/184528.addgene-full.gb": {
@@ -109439,6 +112748,14 @@
         ],
         "attB5": [
             "CAACTTTGTATACAAAAGTTG"
+        ],
+        "attB2": [
+            "ACCACTTTGTACAAGAAAGCTGGGT"
+        ]
+    },
+    "data/addgene_plasmids/46671.depositor-full.gb": {
+        "attB1": [
+            "ACAAGTTTGTACAAAAAAGCAGGCT"
         ],
         "attB2": [
             "ACCACTTTGTACAAGAAAGCTGGGT"
@@ -110218,6 +113535,14 @@
         ],
         "attR2": [
             "ACCACTTTGTACAAGAAAGCTGAACGAGAAACGTAAAATGATATAAATATCAATATATTAAATTAGATTTTGCATAAAAAACAGACTACATAATACTGTAAAACACAACATATCCAGTCACTATG"
+        ]
+    },
+    "data/addgene_plasmids/42239.depositor-full.gb": {
+        "attL1": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTACAAAAAAGCAGGCT"
+        ],
+        "attL2": [
+            "CAAATAATGATTTTATTTTGACTGATAGTGACCTGTTCGTTGCAACAAATTGATAAGCAATGCTTTTTTATAATGCCAACTTTGTACAAGAAAGCTGGGT"
         ]
     },
     "data/addgene_plasmids/81698.addgene-full.gb": {

@@ -54,6 +54,7 @@ def main(
             plasmid_dict["source"] = "addgene"
             plasmid_dict["plasmid_name"] = addgene_id2name[addgene_id]
             plasmid_dict["sequence-type"] = basename.split(".")[1]
+            plasmid_dict["addgene_id"] = addgene_id
             if addgene_id in addgene_id2references:
                 plasmid_dict["references"] = addgene_id2references[addgene_id]
             else:

@@ -4,15 +4,15 @@ import re
 import asyncio
 
 
-async def main(sort_by: str = "best_match"):
+async def main(sort_by: str = "newest"):
     # Read existing plasmids
     existing_plasmids = set()
-    with open("all_gateway_plasmids.tsv", "r") as input_file:
+    with open("data/all_gateway_plasmids.tsv", "r") as input_file:
         for line in input_file:
             ls = line.strip().split("\t")
             existing_plasmids.add(ls[0])
 
-    with open("all_gateway_plasmids.tsv", "a") as output_file:
+    with open("data/all_gateway_plasmids.tsv", "a") as output_file:
         for i in range(1, 240):
             print(f"Processing page {i}")
             url = f"https://www.addgene.org/search/catalog/plasmids/?q=gateway&page_number={i}&page_size=50&sort_by={sort_by}"
@@ -47,4 +47,4 @@ async def main(sort_by: str = "best_match"):
 
 
 if __name__ == "__main__":
-    asyncio.run(main("newest"))
+    asyncio.run(main("alpha_desc"))
