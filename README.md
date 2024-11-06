@@ -1,11 +1,11 @@
-# GateWayMine
+# GateWayMine 🚀
 
 This repository contains the code and data for extracting Gateway sequence sites from AddGene and SnapGene plasmids, and use them to:
 
 * Extract consensus sequences from the Gateway sites.
 * Create a web application to visualize the Gateway plasmids. Can be accessed at https://gatewaymine.netlify.app/.
 
-## Summary of the analysis
+## Summary of the analysis 📊
 
 ```mermaid
 ---
@@ -23,13 +23,13 @@ SequenceFeatures ==> GatewayMine
 Alignments ==> Consensus[consensus sequences]
 ```
 
-### Data mining
+### Data mining ⛏️
 
 The scripts in this repository were used to download plasmids from AddGene and copying the Gateway plasmis from the SnapGene collection (present in the SnapGene installation folder) to create a collection of Gateway plasmids (attached as a release artifact).
 
 Additional information about AddGene plasmids was also mined, such as whether they are part of kits, and related publication links.
 
-### Formatting
+### Formatting 🔄
 
 The plasmids files were read, and if their annotation contained Gateway sequence sites (identied by a label `attXn`, where X is the att site and n is the version), the sequence of those sites was extracted. The file [results/plasmid_site_dict.json](results/plasmid_site_dict.json) contains a dictionary of all the plasmids in the collection, with the Gateway sequence sites they contain.
 
@@ -47,7 +47,7 @@ In addition, the mined plasmid information was used to create a summary dataset,
 
 This dataset was made queryable as a [web application](https://gatewaymine.netlify.app/), of which the source code is in the `web_app` folder.
 
-### Alignment and consensus
+### Alignment and consensus 🧬
 
 To generate the consensus sequences, the Gateway sequence sites were aligned using [Clustal Omega](http://www.clustal.org/omega/). The alignment files are contained in the `alignments` folder (generated only with the sites found in plasmids) and `alignments_combinatorial` (using also the combinatorial sites).
 
@@ -67,9 +67,9 @@ The consensus sequences are contained in the files [results/consensus_sites.tsv]
 In addition, even more permissive consensus sequences were generated. What gives specificity for recombination of a pair of sites
 is the overlap sequence conserved in all `attB`, `P`, `L` and `R` sites with the same number (e.g. all attX1 sites contain `twtGTACAAAaaa` as the overlap sequence). An aligment of all sites of a given type (e.g. all attB sites), excluding the overlap sequence was used to generate more permissive consensus sequences. Those consensus sequences are in the mentioned files, but with `merged_` prefixed to the site name.
 
-## Running the analysis locally
+## Running the analysis locally 💻
 
-### Dependencies
+### Dependencies 📦
 
 The analysis is run using python, using [poetry](https://python-poetry.org/) to manage dependencies.
 
@@ -83,7 +83,7 @@ poetry shell
 
 `clustalo` is used for alignment, and can be downloaded as a binary from [here](http://www.clustal.org/omega/). Once downloaded, rename it to `clustalo` and place it in the root folder of the repository. If you want to provide an alternative path, you can do so with script arguments (see script docs).
 
-### Pipeline
+### Pipeline ⚙️
 
 The pipeline is described in the following diagram:
 
@@ -182,7 +182,7 @@ flowchart TD
       style AlignmentAndConsensus color:#000000,fill:#FFE5F790
 ```
 
-#### Data mining
+#### Data mining ⛏️
 
 To run locally, first download the plasmid collection from the lastest release of this repository, and place the folders `addgene_plasmids` and `snapgene_plasmids` in the `data` folder.
 
@@ -190,15 +190,15 @@ If you want to re-download the plasmids (reproduce the data mining). You can do 
 
 `playwright` is used for scraping. If used for the first time, you will be prompted to run `playwright install`
 
-#### Formatting
+#### Formatting 🔄
 
 See the documentation of scripts called in `run_formatting.sh`.
 
-#### Alignment and consensus
+#### Alignment and consensus 🧬
 
 See the documentation of scripts called in `run_alignments_and_consensus.sh`.
 
-## Web application
+## Web application 🌐
 
 The web application is a simple [React](https://react.dev/) application built with [Vite](https://vitejs.dev/). It was generated with `yarn create vite` (see [docs](https://vite.dev/guide/)), so the `yarn` package manager is required. The directory structure is standard, and documented in the vite docs.
 
@@ -216,9 +216,9 @@ yarn build
 The only extra configuration is copying the `plasmid_features.json` file to the `public` folder when building or serving locally, so it can be requested by the frontend application, see the config at [web_app/vite.config.js](web_app/vite.config.js).
 
 
-## Contributing
+## Contributing 🤝
 
-### Adding new AddGene plasmids
+### Adding new AddGene plasmids 🔬
 
 > **NOTE:** Make sure the plasmid is not already there!
 
@@ -248,7 +248,7 @@ bash run_alignments_and_consensus.sh
 # Re-build the web app
 ```
 
-### Other sources of plasmids
+### Other sources of plasmids ✨
 
 This could be extended to support other plasmid sources, but for now it only supports the SnapGene and AddGene plasmid collections. Feel free to submit an issue to discuss it!
 
