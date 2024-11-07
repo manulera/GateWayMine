@@ -12,13 +12,28 @@ import re
 from Bio import AlignIO
 from Bio.Align import MultipleSeqAlignment
 from Bio.Data.IUPACData import ambiguous_dna_values
-from make_combinatorial_att_sites import overlap_regex, overlap_dict
+from make_combinatorial_att_sites import overlap_dict, compute_regex_site
 
 # We create a dictinary that maps a set of bases to the ambibuous base
 # that represents them.
 ambiguous_base_dict = {}
 for ambiguous, bases in ambiguous_dna_values.items():
     ambiguous_base_dict["".join(sorted(bases))] = ambiguous
+
+
+def validate_consensus_sequence(
+    consensus: str, alignment: MultipleSeqAlignment, site_name: str
+):
+    pattern = compute_regex_site(consensus)
+    for seq in alignment:
+        if seq.id.startswith(site_name) and re.search(pattern, str(seq.seq)) is None:
+            raise ValueError(
+                f"{site_name}: Consensus sequence {consensus} does not match sequence from {seq.id}: {seq.seq}"
+            )
+        elif site_name.endswith("x") and re.search(pattern, str(seq.seq)) is None:
+            raise ValueError(
+                f"{site_name}: Consensus sequence {consensus} does not match sequence from {seq.id}: {seq.seq}"
+            )
 
 
 def get_consensus_base(all_letters: str) -> str:
@@ -60,6 +75,8 @@ def main(input_dir: str, output_file: str):
             consensus = get_consensus_sequence(alignment)
         except ValueError as e:
             raise ValueError(f"Error getting consensus for {site_name}: {e}")
+
+        validate_consensus_sequence(consensus, alignment, site_name)
         out_dict[site_name] = consensus
 
         # These are alignments that contain all sites of a certain type
@@ -67,25 +84,25 @@ def main(input_dir: str, output_file: str):
         # We make a consensus where the only differing sequence
         # is the overlap sequence
         if site_name.endswith("x"):
-            # We find where the overlap sequence is in the alignment
-            # site_number is 1 in attB1, 2 in attB2, etc.
-            site_number = alignment[0].id[4]
-            pattern = overlap_regex[site_number]
-            overlap_matches = re.findall(pattern, str(alignment[0].seq))
-            if len(overlap_matches) != 1:
-                raise ValueError(
-                    f"Expected 1 overlap sequence for {site_name}, found {len(overlap_matches)}"
-                )
-            match = re.search(pattern, str(alignment[0].seq))
-            # In the consensus sequence, for each type of site, we replace the overlap
-            # by the corresponding overlap sequence
+            # This is the consensus of the overlap sequence present in all sites
+            # (capital letters in overlap_dict)
+            # twtGTACAAAaaa
+            # twtGTACAAGaaa
+            # twtGTATAATaaa
+            # twtGTATAGAaaa
+            # twtGTATACAaaa
+            #    GTAYAVD
+            core_consensus = "GTAYAVD"
+            # Should be present only once in the consensus
+            if len(re.findall(core_consensus, consensus)) != 1:
+                raise ValueError(f"Expected 1 core sequence for {site_name}")
             for num in range(1, 6):
+                core = overlap_dict[str(num)][3:-3]
+                merged_consensus = consensus.replace(core_consensus, core)
                 merged_site = f"merged_{site_name[:-1]}{num}"
-                overlap_seq = overlap_dict[str(num)]
-                merged_consensus = (
-                    consensus[: match.start()]
-                    + overlap_seq.upper()
-                    + consensus[match.end() :]
+
+                validate_consensus_sequence(
+                    merged_consensus, alignment, f"{site_name[:-1]}{num}"
                 )
                 out_dict[merged_site] = merged_consensus
 

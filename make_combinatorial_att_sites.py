@@ -6,6 +6,7 @@ even more att sites.
 import json
 import re
 from Bio.Data.IUPACData import ambiguous_dna_values as _ambiguous_dna_values
+import copy
 
 overlap_dict = {
     "1": "twtGTACAAAaaa",
@@ -63,7 +64,7 @@ def main(att_sites_file, output_file, output_file_combinatorial_only):
         ("LR", "P"),
     )
 
-    computed_att_sites = dict()
+    computed_att_sites = copy.deepcopy(att_sites)
 
     for input_types, output_type in reactions:
         left_input, right_input = input_types
@@ -76,7 +77,6 @@ def main(att_sites_file, output_file, output_file_combinatorial_only):
 
             left_seqs = att_sites[left_site]
             right_seqs = att_sites[right_site]
-            computed_att_sites[output_site] = list()
             pattern = overlap_regex[str(i)]
             for left_seq in left_seqs:
                 for right_seq in right_seqs:
@@ -84,6 +84,9 @@ def main(att_sites_file, output_file, output_file_combinatorial_only):
                     start_right = re.search(pattern, right_seq).start()
                     computed_seq = left_seq[:end_left] + right_seq[start_right:]
                     computed_att_sites[output_site].append(computed_seq)
+
+    for site in computed_att_sites:
+        computed_att_sites[site] = list(sorted(set(computed_att_sites[site])))
 
     with open(output_file, "w") as f:
         json.dump(computed_att_sites, f, indent=4)
