@@ -26,4 +26,4 @@ function NameFilter({ nameFilter, setNameFilter, ...formControlProps }) {
     )
 }
 
-export default NameFilter
+export default React.memo(NameFilter);

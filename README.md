@@ -204,6 +204,9 @@ See the documentation of scripts called in `run_alignments_and_consensus.sh`.
 The web application is a simple [React](https://react.dev/) application built with [Vite](https://vitejs.dev/). It was generated with `yarn create vite` (see [docs](https://vite.dev/guide/)), so the `yarn` package manager is required. The directory structure is standard, and documented in the vite docs.
 
 ```bash
+# Enable yarn 3
+corepack enable
+
 # Install dependencies
 yarn install
 

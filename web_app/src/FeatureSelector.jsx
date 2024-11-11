@@ -7,7 +7,7 @@ function FeatureSelector({ features, setSelectedFeatures, ...formControlProps })
             <Autocomplete
                 id="feature-selector"
                 multiple
-                options={features}
+                options={features.filter(feature => !(/^att[BPLR]\d$/.test(feature)))}
                 onChange={(event, newValue) => {
                     setSelectedFeatures(newValue);
                 }}
@@ -32,4 +32,4 @@ function FeatureSelector({ features, setSelectedFeatures, ...formControlProps })
     )
 }
 
-export default FeatureSelector
+export default React.memo(FeatureSelector);

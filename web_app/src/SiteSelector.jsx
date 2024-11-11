@@ -32,4 +32,4 @@ function SiteSelector({ sites, setSelectedSites, ...formControlProps }) {
     )
 }
 
-export default SiteSelector
+export default React.memo(SiteSelector);

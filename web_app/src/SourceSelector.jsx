@@ -20,4 +20,4 @@ function SourceSelector({ selectedSource, setSelectedSource, ...formControlProps
     )
 }
 
-export default SourceSelector
+export default React.memo(SourceSelector);

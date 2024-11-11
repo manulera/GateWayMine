@@ -17,4 +17,4 @@ function KitSelector({ kits, kitFilter, setKitFilter, ...formControlProps }) {
     )
 }
 
-export default KitSelector
+export default React.memo(KitSelector);

@@ -61,7 +61,6 @@ function App() {
       setResults([]);
       return;
     }
-
     const filteredResults = data.filter(plasmid => {
       const matchesSites = selectedSites.length === 0 ||
         selectedSites.every(site => plasmid.att_sites.includes(site));
@@ -79,7 +78,24 @@ function App() {
 
       return matchesSites && matchesFeatures && matchesName && matchesSource && matchesKit;
     });
+    const filteredFeatures = new Set(filteredResults.flatMap(plasmid => plasmid.features));
+    const filteredSites = new Set(filteredResults.flatMap(plasmid => plasmid.att_sites));
+    console.log(filteredResults);
+    console.log(filteredFeatures);
     setResults(filteredResults);
+    // Remove selected features that are not in the filtered features
+    const newSelectedFeatures = selectedFeatures.filter(feature => filteredFeatures.has(feature));
+    if (newSelectedFeatures.length !== selectedFeatures.length) {
+      setSelectedFeatures(newSelectedFeatures);
+    }
+    // Remove selected sites that are not in the filtered sites 
+    const newSelectedSites = selectedSites.filter(site => filteredSites.has(site));
+    if (newSelectedSites.length !== selectedSites.length) {
+      setSelectedSites(newSelectedSites);
+    }
+
+    setFeatures([...filteredFeatures]);
+    setSites([...filteredSites]);
   }, [selectedSites, selectedFeatures, nameFilter, selectedSource, kitFilter])
 
   const title = (
