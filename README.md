@@ -13,14 +13,15 @@ config:
   layout: elk
 ---
 flowchart LR
-SnapGene ==> Plasmids[~14k plasmids]
+SnapGene ==> Plasmids[~14k<br>plasmids]
 AddGene ==> Plasmids
-Plasmids ==> Sites[extracted att sites]
-Plasmids ==> SequenceFeatures[extracted sequence features]
-Sites ==> Alignments[aligned att sites]
-Sites ==> GatewayMine[GatewayMine]
+Plasmids ==> Sites[extracted<br>att sites]
+Sites ==> CombinatorialSites[combinatorial<br>att sites]
+Plasmids ==> SequenceFeatures[extracted<br>sequence features]
+CombinatorialSites ==> Alignments[aligned<br>att sites]
+CombinatorialSites ==> GatewayMine[GatewayMine]
 SequenceFeatures ==> GatewayMine
-Alignments ==> Consensus[consensus sequences]
+Alignments ==> Consensus[consensus<br>sequences]
 ```
 
 ### Data mining ⛏️
@@ -59,7 +60,7 @@ seq2      -GCTCCTT
 seq3      TGCTCCCG
 seq4      TGCTGACC
 
-conensus   GCTVMY
+consensus  GCTVMY
 ```
 
 The consensus sequences are contained in the files [results/consensus_sites.tsv](results/consensus_sites.tsv) and [results/consensus_sites_combinatorial.tsv](results/consensus_sites_combinatorial.tsv), which were created with only the sites found in plasmids and those plus the combinatorial sites respectively.
