@@ -18,9 +18,9 @@ function NameFilter({ nameFilter, setNameFilter, ...formControlProps }) {
                 id="name-filter"
                 variant="outlined"
                 label="Filter by Name"
-                placeholder="Enter name..."
                 value={inputValue}
                 onChange={(event) => setInputValue(event.target.value)}
+                helperText={inputValue.length === 1 ? "Enter at least 2 characters" : " "}
             />
         </FormControl>
     )
