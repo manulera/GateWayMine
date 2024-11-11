@@ -130,6 +130,7 @@ flowchart TD
       make_combinatorial_att_sites[make_combinatorial_att_sites.py] ==> att_sites_combinatorial([results/att_sites_combinatorial.json])
       make_combinatorial_att_sites ==> combinatorial_att_sites_only([results/att_sites_combinatorial_only.json])
       end
+
       subgraph AlignmentAndConsensus["Alignment and Consensus"]
       att_sites ==> make_alignments
       att_sites_combinatorial ==> make_alignments
@@ -139,6 +140,10 @@ flowchart TD
       alignments_combinatorial ==> make_consensus_sites
       make_consensus_sites[make_consensus_sites.py] ==> consensus_sites[(results/consensus_sites.tsv)]
       make_consensus_sites ==> consensus_sites_combinatorial[(results/consensus_sites_combinatorial.tsv)]
+      alignments ==> make_logos
+      alignments_combinatorial ==> make_logos
+      make_logos[make_logos.py] ==> logos([results/alignment/*.svg])
+      make_logos ==> logos_combinatorial([results/alignment_combinatorial/*.svg])
 
       end
 
@@ -157,6 +162,7 @@ flowchart TD
       make_alignments:::Sky
       make_consensus_sites:::Sky
       make_plasmid_site_dict:::Sky
+      make_logos:::Sky
 
       att_sites:::Lavender
       att_sites_combinatorial:::Lavender
@@ -171,6 +177,8 @@ flowchart TD
       addgene_article_refs:::Lavender
       addgene_kits:::Lavender
       all_gateway_plasmids:::Lavender
+      logos:::Lavender
+      logos_combinatorial:::Lavender
       GateWayMine:::Peacock
 
       classDef Sky stroke-width:1px, stroke-dasharray:none, stroke:#374D7C, fill:#E2EBFF, color:#374D7C
